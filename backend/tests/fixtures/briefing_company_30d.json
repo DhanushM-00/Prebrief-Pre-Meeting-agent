@@ -1,0 +1,1261 @@
+{
+  "id": "b-helio-grid-1793602289689",
+  "subject": "Helio Grid",
+  "type": "company",
+  "generatedAt": "2026-11-02T06:51:29.689Z",
+  "windowDays": 30,
+  "windowStart": "2026-10-03T06:51:29.688Z",
+  "windowEnd": "2026-11-02T06:51:29.688Z",
+  "snapshot": {
+    "type": "company",
+    "name": "Helio Grid",
+    "legalName": "Helio Grid, Inc.",
+    "tagline": "Clean energy · Series A stage",
+    "website": "helio-grid.example.com",
+    "sector": "Clean energy",
+    "headquarters": "Sydney, Australia",
+    "founded": "2013",
+    "employeeCount": "~755",
+    "revenue": "$882M ARR",
+    "funding": "$95M",
+    "valuation": "$1038M",
+    "tags": [
+      "Clean energy",
+      "Series A",
+      "Sydney",
+      "Cell"
+    ],
+    "facts": [
+      {
+        "label": "Stage",
+        "value": "Series A",
+        "hint": "Last round 4 months ago"
+      },
+      {
+        "label": "Valuation",
+        "value": "$1038M",
+        "hint": "Most recent mark"
+      },
+      {
+        "label": "Revenue",
+        "value": "$882M ARR",
+        "hint": "Trailing twelve months"
+      },
+      {
+        "label": "Headcount",
+        "value": "~755"
+      },
+      {
+        "label": "Founded",
+        "value": "2013",
+        "hint": "13 years operating"
+      },
+      {
+        "label": "Product",
+        "value": "Cell",
+        "hint": "Clean energy platform"
+      },
+      {
+        "label": "HQ",
+        "value": "Sydney, Australia"
+      },
+      {
+        "label": "Next milestone",
+        "value": "Series D close"
+      }
+    ],
+    "keyPeople": [
+      {
+        "name": "Dmitri Oyelaran",
+        "role": "Chief Executive Officer",
+        "note": "Primary external voice"
+      },
+      {
+        "name": "Priya Haddad",
+        "role": "Chief Financial Officer",
+        "note": "Owns capital allocation narrative"
+      },
+      {
+        "name": "Kai Bergström",
+        "role": "Chief Technology Officer",
+        "note": "Product and architecture decisions"
+      },
+      {
+        "name": "Sofia Petrov",
+        "role": "Head of Enterprise Sales",
+        "note": "Customer-side perspective"
+      }
+    ],
+    "watchlist": [
+      "Sector: Clean energy",
+      "Stage: Series A",
+      "Competitor set: 2 adjacent",
+      "Hiring: Paused"
+    ]
+  },
+  "news": [
+    {
+      "id": "n-7-helio-grid",
+      "headline": "Helio Grid scales back expansion in APAC",
+      "summary": "Helio Grid paused hiring and new deployments in APAC as costs came under pressure.",
+      "whyItMatters": "A pullback in one region while expanding in another is a prioritisation signal you can map directly.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-11-02T18:18:00.000Z",
+      "category": "expansion",
+      "sentiment": "negative",
+      "impact": 3,
+      "entities": [
+        "Helio Grid",
+        "APAC"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw you scaled back. What changed in the numbers?"
+    },
+    {
+      "id": "n-0-helio-grid",
+      "headline": "Helio Grid loses Halcyon Bank as customer",
+      "summary": "Helio Grid confirmed that Halcyon Bank moved its business to a competing provider.",
+      "whyItMatters": "Churn has a cause that is usually known internally and rarely explained externally — this is the best diagnostic question you can ask.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-11-02T13:31:00.000Z",
+      "category": "customers",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Halcyon Bank"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the churn. What caused it?"
+    },
+    {
+      "id": "n-23-helio-grid",
+      "headline": "Helio Grid hits profitability for the first time",
+      "summary": "Helio Grid reported its first profitable quarter, with operating margin turning positive.",
+      "whyItMatters": "Crossing into profitability changes the fundamental conversation from runway to allocation of that profit.",
+      "source": "The Register",
+      "publishedAt": "2026-11-02T10:44:00.000Z",
+      "category": "earnings",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": true,
+      "opener": "That result landed well. How are you thinking about the next quarter?"
+    },
+    {
+      "id": "n-6-helio-grid",
+      "headline": "Helio Grid scales back expansion in EMEA",
+      "summary": "Helio Grid paused hiring and new deployments in EMEA as costs came under pressure.",
+      "whyItMatters": "A pullback in one region while expanding in another is a prioritisation signal you can map directly.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-11-01T15:05:00.000Z",
+      "category": "expansion",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "EMEA"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw you scaled back. What changed in the numbers?"
+    },
+    {
+      "id": "n-13-regulators",
+      "headline": "Regulators open inquiry into Helio Grid over privacy rules",
+      "summary": "A regulator opened a formal inquiry into how Helio Grid handles privacy rules.",
+      "whyItMatters": "An open inquiry is material and usually known internally — acknowledging it early protects trust in the room.",
+      "source": "Fortune",
+      "publishedAt": "2026-11-01T11:25:00.000Z",
+      "category": "regulation",
+      "sentiment": "negative",
+      "impact": 3,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": true,
+      "opener": "There was a regulatory development. How are you thinking about it?"
+    },
+    {
+      "id": "n-4-judge-sets",
+      "headline": "Judge sets hearing date in Helio Grid case",
+      "summary": "The court scheduled a hearing in the dispute involving Helio Grid, with a decision expected within the quarter.",
+      "whyItMatters": "A dated hearing is a concrete timeline you can ask about without being accusatory.",
+      "source": "Fortune",
+      "publishedAt": "2026-10-28T07:18:00.000Z",
+      "category": "litigation",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the legal coverage. How much does it distract the team, honestly?"
+    },
+    {
+      "id": "n-10-helio-grid",
+      "headline": "Helio Grid settles dispute without admitting fault",
+      "summary": "Helio Grid settled the matter confidentially, with no admission of wrongdoing.",
+      "whyItMatters": "Confidential settlements are rarely fully settled internally — ask what changed in policy.",
+      "source": "Axios",
+      "publishedAt": "2026-10-27T17:31:00.000Z",
+      "category": "litigation",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The matter seems to have been settled. What changed in policy as a result?"
+    },
+    {
+      "id": "n-17-helio-grid",
+      "headline": "Helio Grid valuation reported at $813M in secondary sale",
+      "summary": "A secondary transaction valued Helio Grid at approximately $813M.",
+      "whyItMatters": "Secondary marks are the market’s most honest price — it is often more useful than the last primary round.",
+      "source": "Handshake",
+      "publishedAt": "2026-10-27T06:05:00.000Z",
+      "category": "markets",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Northgate Fund"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The market liked it. What do you make of the reaction?"
+    },
+    {
+      "id": "n-5-helio-grid",
+      "headline": "Helio Grid wins regulatory clearance in APAC on AI safety review",
+      "summary": "Helio Grid received regulatory clearance in APAC on how it handles AI safety review.",
+      "whyItMatters": "Approvals remove a gating risk that was likely being modelled internally; it frees up a growth lever.",
+      "source": "Sifted",
+      "publishedAt": "2026-10-25T14:31:00.000Z",
+      "category": "regulation",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The clearance went well. What changed for the team as a result?"
+    },
+    {
+      "id": "n-15-dmitri-oye",
+      "headline": "Dmitri Oyelaran to step down as Helio Grid CEO, Mira Okonkwo named successor",
+      "summary": "Dmitri Oyelaran will leave Helio Grid, with Mira Okonkwo taking the chief executive role after an internal transition.",
+      "whyItMatters": "A leadership transition changes who you are actually meeting and what authority their answers carry.",
+      "source": "The Register",
+      "publishedAt": "2026-10-25T10:44:00.000Z",
+      "category": "leadership",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Dmitri Oyelaran"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I noticed some movement on the leadership team. How has that changed the day-to-day?"
+    },
+    {
+      "id": "n-2-helio-grid",
+      "headline": "Helio Grid renews key account despite competitive bidding",
+      "summary": "Helio Grid retained a major account through a renewal cycle in which two competitors bid.",
+      "whyItMatters": "Winning a contested renewal is the clearest evidence of product pull versus contract inertia.",
+      "source": "Korea Herald",
+      "publishedAt": "2026-10-24T16:38:00.000Z",
+      "category": "customers",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Helio Grid",
+        "Bluefield Foods"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I noticed the Bluefield Foods win. What made the difference in that evaluation?"
+    },
+    {
+      "id": "n-22-helio-grid",
+      "headline": "Helio Grid wins regulatory clearance in LATAM on export controls",
+      "summary": "Helio Grid received regulatory clearance in LATAM on how it handles export controls.",
+      "whyItMatters": "Approvals remove a gating risk that was likely being modelled internally; it frees up a growth lever.",
+      "source": "Handshake",
+      "publishedAt": "2026-10-23T11:38:00.000Z",
+      "category": "regulation",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The clearance went well. What changed for the team as a result?"
+    },
+    {
+      "id": "n-8-helio-grid",
+      "headline": "Helio Grid valuation reported at $860M in secondary sale",
+      "summary": "A secondary transaction valued Helio Grid at approximately $860M.",
+      "whyItMatters": "Secondary marks are the market’s most honest price — it is often more useful than the last primary round.",
+      "source": "Fortune",
+      "publishedAt": "2026-10-21T19:31:00.000Z",
+      "category": "markets",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Cobalt Row"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The market liked it. What do you make of the reaction?"
+    },
+    {
+      "id": "n-3-helio-grid",
+      "headline": "Helio Grid opens New York office",
+      "summary": "Helio Grid opened a new office in New York, its third in that market.",
+      "whyItMatters": "A new office is a bet on revenue that has not landed yet — useful for testing conviction.",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-21T14:12:00.000Z",
+      "category": "expansion",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Helio Grid",
+        "Japan"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw you're expanding. What's driving the timing?"
+    },
+    {
+      "id": "n-21-short-sell",
+      "headline": "Short-seller report targets Helio Grid accounting over non-GAAP adjustments",
+      "summary": "A short-seller published a report disputing how Helio Grid accounts for non-GAAP adjustments in its annual disclosure.",
+      "whyItMatters": "Accusations of this kind define the defensive posture — know the substance before you ask anything adjacent.",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-20T11:18:00.000Z",
+      "category": "markets",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Verdant Growth"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The market took that badly. How are you reading it?"
+    },
+    {
+      "id": "n-19-short-sell",
+      "headline": "Short-seller report targets Helio Grid accounting over goodwill impairment testing",
+      "summary": "A short-seller published a report disputing how Helio Grid accounts for goodwill impairment testing in its revenue-recognition disclosure.",
+      "whyItMatters": "Accusations of this kind define the defensive posture — know the substance before you ask anything adjacent.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-20T10:31:00.000Z",
+      "category": "markets",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Arcline Capital"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The market took that badly. How are you reading it?"
+    },
+    {
+      "id": "n-18-helio-grid",
+      "headline": "Helio Grid to hire 296 in Europe over next year",
+      "summary": "Helio Grid plans to add 296 roles in Europe, concentrated in engineering and go-to-market.",
+      "whyItMatters": "Hiring plans are the closest thing to a public forecast they will give you.",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-20T08:25:00.000Z",
+      "category": "expansion",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Europe"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw you're expanding. What's driving the timing?"
+    },
+    {
+      "id": "n-20-helio-grid",
+      "headline": "Helio Grid publishes transparency report on data residency",
+      "summary": "Helio Grid released a detailed disclosure on how it handles data residency and its supply chain.",
+      "whyItMatters": "Proactive disclosure is a posture signal — it indicates how the team expects to be challenged.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-19T15:44:00.000Z",
+      "category": "regulation",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The clearance went well. What changed for the team as a result?"
+    },
+    {
+      "id": "n-14-investors-",
+      "headline": "Investors reportedly pass on Helio Grid at a $766M valuation",
+      "summary": "Late-stage investors walked away from a marketed round that would have implied roughly $766M in valuation.",
+      "whyItMatters": "A passed round is the most direct signal of a valuation reset, and it changes the conversation about headcount and pricing.",
+      "source": "PitchBook News",
+      "publishedAt": "2026-10-16T09:05:00.000Z",
+      "category": "funding",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Helio Grid",
+        "Northgate Fund"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "A passed round is a hard signal. How are you thinking about it from here?"
+    },
+    {
+      "id": "n-12-regulators",
+      "headline": "Regulators open inquiry into Helio Grid over consumer protection",
+      "summary": "A regulator opened a formal inquiry into how Helio Grid handles consumer protection.",
+      "whyItMatters": "An open inquiry is material and usually known internally — acknowledging it early protects trust in the room.",
+      "source": "PitchBook News",
+      "publishedAt": "2026-10-14T13:18:00.000Z",
+      "category": "regulation",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "There was a regulatory development. How are you thinking about it?"
+    },
+    {
+      "id": "n-11-helio-grid",
+      "headline": "Helio Grid loses Westport Media as customer",
+      "summary": "Helio Grid confirmed that Westport Media moved its business to a competing provider.",
+      "whyItMatters": "Churn has a cause that is usually known internally and rarely explained externally — this is the best diagnostic question you can ask.",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-14T09:38:00.000Z",
+      "category": "customers",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Helio Grid",
+        "Westport Media"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the churn. What caused it?"
+    },
+    {
+      "id": "n-9-helio-grid",
+      "headline": "Helio Grid valuation reported at $764M in secondary sale",
+      "summary": "A secondary transaction valued Helio Grid at approximately $764M.",
+      "whyItMatters": "Secondary marks are the market’s most honest price — it is often more useful than the last primary round.",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-09T15:31:00.000Z",
+      "category": "markets",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Helio Grid",
+        "Verdant Growth"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The market liked it. What do you make of the reaction?"
+    },
+    {
+      "id": "n-1-helio-grid",
+      "headline": "Helio Grid posts 10% revenue growth as gross margin expands",
+      "summary": "Helio Grid reported revenue growth of 10% with gains concentrated in gross margin.",
+      "whyItMatters": "Growth quality tells you which part of the business to lead with and which part to probe.",
+      "source": "The Register",
+      "publishedAt": "2026-10-09T06:31:00.000Z",
+      "category": "earnings",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "That result landed well. How are you thinking about the next quarter?"
+    },
+    {
+      "id": "n-16-helio-grid",
+      "headline": "Helio Grid scales back expansion in North America",
+      "summary": "Helio Grid paused hiring and new deployments in North America as costs came under pressure.",
+      "whyItMatters": "A pullback in one region while expanding in another is a prioritisation signal you can map directly.",
+      "source": "Bloomberg Technology",
+      "publishedAt": "2026-10-06T08:05:00.000Z",
+      "category": "expansion",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "North America"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw you scaled back. What changed in the numbers?"
+    },
+    {
+      "id": "n-27-bluefield-",
+      "headline": "Bluefield Foods signs Helio Grid for data migration across North America",
+      "summary": "Bluefield Foods selected Cell for data migration across its North America operations.",
+      "whyItMatters": "Named enterprise wins show what actually sells — the selection criteria they used is worth copying.",
+      "source": "The Information",
+      "publishedAt": "2026-10-02T09:25:00.000Z",
+      "category": "customers",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Bluefield Foods"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I noticed the Bluefield Foods win. What made the difference in that evaluation?"
+    },
+    {
+      "id": "n-30-helio-grid",
+      "headline": "Helio Grid names Amara Petrov head of Customer Success",
+      "summary": "Helio Grid appointed Amara Petrov to lead Customer Success, a newly consolidated function.",
+      "whyItMatters": "A new head of function means their priorities are the priorities for the next two quarters.",
+      "source": "Financial Times",
+      "publishedAt": "2026-10-01T18:05:00.000Z",
+      "category": "hiring",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Dmitri Oyelaran",
+        "Customer Success"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I saw the hiring plan. What is behind those numbers?"
+    },
+    {
+      "id": "n-29-helio-grid",
+      "headline": "Helio Grid names Jonas Alvarez head of Product",
+      "summary": "Helio Grid appointed Jonas Alvarez to lead Product, a newly consolidated function.",
+      "whyItMatters": "A new head of function means their priorities are the priorities for the next two quarters.",
+      "source": "PitchBook News",
+      "publishedAt": "2026-09-27T18:51:00.000Z",
+      "category": "hiring",
+      "sentiment": "neutral",
+      "impact": 1,
+      "entities": [
+        "Helio Grid",
+        "Dmitri Oyelaran",
+        "Product"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "Where is the constraint you are actually hiring against?"
+    },
+    {
+      "id": "n-26-helio-grid",
+      "headline": "Helio Grid closes $155M debt facility, avoids equity raise",
+      "summary": "Helio Grid arranged a $155M debt facility rather than taking a new equity round.",
+      "whyItMatters": "Choosing debt over dilution usually signals confidence in near-term cash generation; it also raises questions about covenants.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-09-27T17:12:00.000Z",
+      "category": "funding",
+      "sentiment": "neutral",
+      "impact": 3,
+      "entities": [
+        "Helio Grid",
+        "Cobalt Row"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "A raise like that usually comes with big expectations. What are you promising the board?"
+    },
+    {
+      "id": "n-25-helio-grid",
+      "headline": "Helio Grid wins regulatory clearance in APAC on consumer protection",
+      "summary": "Helio Grid received regulatory clearance in APAC on how it handles consumer protection.",
+      "whyItMatters": "Approvals remove a gating risk that was likely being modelled internally; it frees up a growth lever.",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-27T12:44:00.000Z",
+      "category": "regulation",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Helio Grid"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The clearance went well. What changed for the team as a result?"
+    },
+    {
+      "id": "n-24-helio-grid",
+      "headline": "Helio Grid shares +8% as enterprise demand comes into focus",
+      "summary": "Helio Grid stock moved +8% as investors focused on enterprise demand.",
+      "whyItMatters": "How the market received the last update is the baseline expectation they will be measuring against in the room.",
+      "source": "CNBC",
+      "publishedAt": "2026-09-26T07:44:00.000Z",
+      "category": "markets",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Helio Grid",
+        "Meridian Capital"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market liked it. What do you make of the reaction?"
+    },
+    {
+      "id": "n-28-helio-grid",
+      "headline": "Helio Grid lands $118M to expand LATAM operations",
+      "summary": "The company said the $118M facility will fund hiring and go-to-market expansion across LATAM.",
+      "whyItMatters": "Capital tied to a specific region usually comes with local hiring and partner targets that show up in the roadmap.",
+      "source": "Axios",
+      "publishedAt": "2026-09-20T09:12:00.000Z",
+      "category": "funding",
+      "sentiment": "neutral",
+      "impact": 3,
+      "entities": [
+        "Helio Grid",
+        "Halcyon Partners"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "A raise like that usually comes with big expectations. What are you promising the board?"
+    }
+  ],
+  "signals": [
+    {
+      "id": "sig-risk-1",
+      "kind": "risk",
+      "title": "Adverse cluster in the last 30 days",
+      "detail": "3 notable negative items in-window, led by \"Helio Grid scales back expansion in APAC\". Expect this to be on their agenda even if it is not on yours.",
+      "evidence": [
+        "n-7-helio-grid",
+        "n-13-regulators",
+        "n-14-investors-"
+      ],
+      "severity": 3
+    },
+    {
+      "id": "sig-opp-1",
+      "kind": "opportunity",
+      "title": "Momentum you can build on",
+      "detail": "3 notable positive items, led by \"Helio Grid hits profitability for the first time\". Naming something they are proud of — and asking them to extend it — is the cheapest way to build rapport.",
+      "evidence": [
+        "n-23-helio-grid",
+        "n-10-helio-grid",
+        "n-2-helio-grid"
+      ],
+      "severity": 2
+    },
+    {
+      "id": "sig-watch-1",
+      "kind": "watch",
+      "title": "Narrative is concentrating on expansion",
+      "detail": "5 of the 24 in-window items touch expansion. Coverage concentration means it is the frame external stakeholders are using — meeting well means meeting inside that frame, or deliberately outside it.",
+      "evidence": [
+        "n-7-helio-grid",
+        "n-6-helio-grid",
+        "n-3-helio-grid"
+      ],
+      "severity": 1
+    },
+    {
+      "id": "sig-watch-2",
+      "kind": "watch",
+      "title": "Two or more high-impact events in one window",
+      "detail": "4 items were classified as high impact. When multiple material events land close together, teams are usually mid-firefight rather than in a reflective state — keep the agenda short.",
+      "evidence": [
+        "n-7-helio-grid",
+        "n-23-helio-grid",
+        "n-13-regulators"
+      ],
+      "severity": 2
+    }
+  ],
+  "talkingPoints": [
+    {
+      "id": "tp-n-7-helio-grid",
+      "text": "Helio Grid scales back expansion in APAC",
+      "rationale": "A pullback in one region while expanding in another is a prioritisation signal you can map directly.",
+      "opener": "I'd like to start from something recent: \"Helio Grid scales back expansion in APAC.\"",
+      "evidence": [
+        "n-7-helio-grid"
+      ]
+    },
+    {
+      "id": "tp-n-23-helio-grid",
+      "text": "Helio Grid hits profitability for the first time",
+      "rationale": "Crossing into profitability changes the fundamental conversation from runway to allocation of that profit.",
+      "opener": "That result landed well. How are you thinking about the next quarter?",
+      "evidence": [
+        "n-23-helio-grid"
+      ]
+    },
+    {
+      "id": "tp-n-13-regulators",
+      "text": "Regulators open inquiry into Helio Grid over privacy rules",
+      "rationale": "An open inquiry is material and usually known internally — acknowledging it early protects trust in the room.",
+      "opener": "There was a regulatory development. How are you thinking about it?",
+      "evidence": [
+        "n-13-regulators"
+      ]
+    },
+    {
+      "id": "tp-n-2-helio-grid",
+      "text": "Helio Grid renews key account despite competitive bidding",
+      "rationale": "Winning a contested renewal is the clearest evidence of product pull versus contract inertia.",
+      "opener": "I noticed the Bluefield Foods win. What made the difference in that evaluation?",
+      "evidence": [
+        "n-2-helio-grid"
+      ]
+    },
+    {
+      "id": "tp-n-10-helio-grid",
+      "text": "Helio Grid settles dispute without admitting fault",
+      "rationale": "Confidential settlements are rarely fully settled internally — ask what changed in policy.",
+      "opener": "The matter seems to have been settled. What changed in policy as a result?",
+      "evidence": [
+        "n-10-helio-grid"
+      ]
+    },
+    {
+      "id": "tp-profile",
+      "text": "Anchor the conversation in their position in the market",
+      "rationale": "They are clean energy · series a stage and headquartered in Sydney, Australia. Framing the meeting inside their own stated positioning gets an answer rather than a pitch.",
+      "opener": "Before we go further — I would like to understand how you are being measured right now.",
+      "evidence": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-negative",
+      "question": "How are you thinking about \"Helio Grid scales back expansion in APAC\"?",
+      "why": "It was widely covered as a negative development. Asking them to explain it — rather than waiting for them to raise it — usually gets a more complete answer.",
+      "category": "strategy",
+      "evidence": [
+        "n-7-helio-grid"
+      ]
+    },
+    {
+      "id": "q-positive",
+      "question": "What would need to be true for the momentum behind \"Helio Grid hits profitability for the first time\" to continue?",
+      "why": "Extends something they are proud of, which reads as interest rather than interrogation, and pulls out their success criteria.",
+      "category": "business",
+      "evidence": [
+        "n-23-helio-grid"
+      ]
+    },
+    {
+      "id": "q-2",
+      "question": "What changed in the last 30 days that is not yet public?",
+      "why": "Gives them room to be candid without putting a specific claim on the record, and reliably surfaces the internal narrative.",
+      "category": "strategy",
+      "evidence": []
+    },
+    {
+      "id": "q-3",
+      "question": "What would you do differently if you had twice the current budget?",
+      "why": "Reveals their real constraint without asking them to admit it, and gets prioritisation logic instead of a list.",
+      "category": "strategy",
+      "evidence": []
+    },
+    {
+      "id": "q-4",
+      "question": "Where is the gap between what you have announced and what is actually shipping?",
+      "why": "Announcements are lagging indicators; the gap between announced and shipped is where the real risk lives.",
+      "category": "product",
+      "evidence": []
+    },
+    {
+      "id": "q-5",
+      "question": "What is the assumption in your plan that worries you most?",
+      "why": "A high-signal question that is almost always answered honestly, because it asks about doubt rather than performance.",
+      "category": "business",
+      "evidence": []
+    },
+    {
+      "id": "q-plan",
+      "question": "How confident are you in the hiring and expansion plan you have described publicly?",
+      "why": "Public plans are usually a floor rather than a forecast. Their real number is the useful one.",
+      "category": "team",
+      "evidence": [
+        "n-7-helio-grid"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-n-7-helio-grid",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-11-02T18:18:00.000Z",
+      "headline": "Helio Grid scales back expansion in APAC",
+      "category": "expansion",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-0-helio-grid",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-11-02T13:31:00.000Z",
+      "headline": "Helio Grid loses Halcyon Bank as customer",
+      "category": "customers",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-23-helio-grid",
+      "name": "The Register",
+      "publishedAt": "2026-11-02T10:44:00.000Z",
+      "headline": "Helio Grid hits profitability for the first time",
+      "category": "earnings",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-6-helio-grid",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-11-01T15:05:00.000Z",
+      "headline": "Helio Grid scales back expansion in EMEA",
+      "category": "expansion",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-13-regulators",
+      "name": "Fortune",
+      "publishedAt": "2026-11-01T11:25:00.000Z",
+      "headline": "Regulators open inquiry into Helio Grid over privacy rules",
+      "category": "regulation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-4-judge-sets",
+      "name": "Fortune",
+      "publishedAt": "2026-10-28T07:18:00.000Z",
+      "headline": "Judge sets hearing date in Helio Grid case",
+      "category": "litigation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-10-helio-grid",
+      "name": "Axios",
+      "publishedAt": "2026-10-27T17:31:00.000Z",
+      "headline": "Helio Grid settles dispute without admitting fault",
+      "category": "litigation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-17-helio-grid",
+      "name": "Handshake",
+      "publishedAt": "2026-10-27T06:05:00.000Z",
+      "headline": "Helio Grid valuation reported at $813M in secondary sale",
+      "category": "markets",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-5-helio-grid",
+      "name": "Sifted",
+      "publishedAt": "2026-10-25T14:31:00.000Z",
+      "headline": "Helio Grid wins regulatory clearance in APAC on AI safety review",
+      "category": "regulation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-15-dmitri-oye",
+      "name": "The Register",
+      "publishedAt": "2026-10-25T10:44:00.000Z",
+      "headline": "Dmitri Oyelaran to step down as Helio Grid CEO, Mira Okonkwo named successor",
+      "category": "leadership",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-2-helio-grid",
+      "name": "Korea Herald",
+      "publishedAt": "2026-10-24T16:38:00.000Z",
+      "headline": "Helio Grid renews key account despite competitive bidding",
+      "category": "customers",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-22-helio-grid",
+      "name": "Handshake",
+      "publishedAt": "2026-10-23T11:38:00.000Z",
+      "headline": "Helio Grid wins regulatory clearance in LATAM on export controls",
+      "category": "regulation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-8-helio-grid",
+      "name": "Fortune",
+      "publishedAt": "2026-10-21T19:31:00.000Z",
+      "headline": "Helio Grid valuation reported at $860M in secondary sale",
+      "category": "markets",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-3-helio-grid",
+      "name": "Business Insider",
+      "publishedAt": "2026-10-21T14:12:00.000Z",
+      "headline": "Helio Grid opens New York office",
+      "category": "expansion",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-21-short-sell",
+      "name": "The Economic Times",
+      "publishedAt": "2026-10-20T11:18:00.000Z",
+      "headline": "Short-seller report targets Helio Grid accounting over non-GAAP adjustments",
+      "category": "markets",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-19-short-sell",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-10-20T10:31:00.000Z",
+      "headline": "Short-seller report targets Helio Grid accounting over goodwill impairment testing",
+      "category": "markets",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-18-helio-grid",
+      "name": "Business Insider",
+      "publishedAt": "2026-10-20T08:25:00.000Z",
+      "headline": "Helio Grid to hire 296 in Europe over next year",
+      "category": "expansion",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-20-helio-grid",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-10-19T15:44:00.000Z",
+      "headline": "Helio Grid publishes transparency report on data residency",
+      "category": "regulation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-14-investors-",
+      "name": "PitchBook News",
+      "publishedAt": "2026-10-16T09:05:00.000Z",
+      "headline": "Investors reportedly pass on Helio Grid at a $766M valuation",
+      "category": "funding",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-12-regulators",
+      "name": "PitchBook News",
+      "publishedAt": "2026-10-14T13:18:00.000Z",
+      "headline": "Regulators open inquiry into Helio Grid over consumer protection",
+      "category": "regulation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-11-helio-grid",
+      "name": "Bloomberg",
+      "publishedAt": "2026-10-14T09:38:00.000Z",
+      "headline": "Helio Grid loses Westport Media as customer",
+      "category": "customers",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-9-helio-grid",
+      "name": "Bloomberg",
+      "publishedAt": "2026-10-09T15:31:00.000Z",
+      "headline": "Helio Grid valuation reported at $764M in secondary sale",
+      "category": "markets",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-1-helio-grid",
+      "name": "The Register",
+      "publishedAt": "2026-10-09T06:31:00.000Z",
+      "headline": "Helio Grid posts 10% revenue growth as gross margin expands",
+      "category": "earnings",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-16-helio-grid",
+      "name": "Bloomberg Technology",
+      "publishedAt": "2026-10-06T08:05:00.000Z",
+      "headline": "Helio Grid scales back expansion in North America",
+      "category": "expansion",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-27-bluefield-",
+      "name": "The Information",
+      "publishedAt": "2026-10-02T09:25:00.000Z",
+      "headline": "Bluefield Foods signs Helio Grid for data migration across North America",
+      "category": "customers",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-30-helio-grid",
+      "name": "Financial Times",
+      "publishedAt": "2026-10-01T18:05:00.000Z",
+      "headline": "Helio Grid names Amara Petrov head of Customer Success",
+      "category": "hiring",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-29-helio-grid",
+      "name": "PitchBook News",
+      "publishedAt": "2026-09-27T18:51:00.000Z",
+      "headline": "Helio Grid names Jonas Alvarez head of Product",
+      "category": "hiring",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-26-helio-grid",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-09-27T17:12:00.000Z",
+      "headline": "Helio Grid closes $155M debt facility, avoids equity raise",
+      "category": "funding",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-25-helio-grid",
+      "name": "Financial Times",
+      "publishedAt": "2026-09-27T12:44:00.000Z",
+      "headline": "Helio Grid wins regulatory clearance in APAC on consumer protection",
+      "category": "regulation",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-24-helio-grid",
+      "name": "CNBC",
+      "publishedAt": "2026-09-26T07:44:00.000Z",
+      "headline": "Helio Grid shares +8% as enterprise demand comes into focus",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-28-helio-grid",
+      "name": "Axios",
+      "publishedAt": "2026-09-20T09:12:00.000Z",
+      "headline": "Helio Grid lands $118M to expand LATAM operations",
+      "category": "funding",
+      "inWindow": false
+    }
+  ],
+  "sentimentTrend": [
+    {
+      "date": "2026-10-04",
+      "score": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-05",
+      "score": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-06",
+      "score": -1,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-07",
+      "score": -1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-08",
+      "score": -1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-09",
+      "score": 0.33,
+      "volume": 2
+    },
+    {
+      "date": "2026-10-10",
+      "score": 0.33,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-11",
+      "score": 0.33,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-12",
+      "score": 0.33,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-13",
+      "score": 1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-14",
+      "score": 0,
+      "volume": 2
+    },
+    {
+      "date": "2026-10-15",
+      "score": 0,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-16",
+      "score": -1,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-17",
+      "score": -1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-18",
+      "score": -1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-19",
+      "score": -0.5,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-20",
+      "score": -0.43,
+      "volume": 3
+    },
+    {
+      "date": "2026-10-21",
+      "score": 0.14,
+      "volume": 2
+    },
+    {
+      "date": "2026-10-22",
+      "score": 0.14,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-23",
+      "score": 0.43,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-24",
+      "score": 0.5,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-25",
+      "score": 0.6,
+      "volume": 2
+    },
+    {
+      "date": "2026-10-26",
+      "score": 0.56,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-27",
+      "score": 1,
+      "volume": 2
+    },
+    {
+      "date": "2026-10-28",
+      "score": 0.71,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-29",
+      "score": 0.71,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-30",
+      "score": 0.67,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-31",
+      "score": 0.6,
+      "volume": 0
+    },
+    {
+      "date": "2026-11-01",
+      "score": -0.2,
+      "volume": 2
+    },
+    {
+      "date": "2026-11-02",
+      "score": -0.25,
+      "volume": 3
+    }
+  ],
+  "coverage": [
+    {
+      "category": "expansion",
+      "count": 5
+    },
+    {
+      "category": "regulation",
+      "count": 5
+    },
+    {
+      "category": "markets",
+      "count": 5
+    },
+    {
+      "category": "customers",
+      "count": 3
+    },
+    {
+      "category": "earnings",
+      "count": 2
+    },
+    {
+      "category": "litigation",
+      "count": 2
+    },
+    {
+      "category": "leadership",
+      "count": 1
+    },
+    {
+      "category": "funding",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "articles": 24,
+    "sources": 12,
+    "keyItems": 2,
+    "avgSentiment": 0.08,
+    "daysCovered": 14,
+    "categoriesCovered": 8
+  },
+  "grounding": [
+    "24 news items published within the last 30 days.",
+    "Distinct outlets: 12.",
+    "Most-covered categories: expansion, regulation, markets.",
+    "Key people named: Dmitri Oyelaran (Chief Executive Officer); Priya Haddad (Chief Financial Officer); Kai Bergström (Chief Technology Officer); Sofia Petrov (Head of Enterprise Sales).",
+    "Stage and positioning: Clean energy · Series A stage. Sydney, Australia"
+  ],
+  "synthetic": true
+}

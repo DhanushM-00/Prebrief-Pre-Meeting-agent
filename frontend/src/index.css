@@ -1,0 +1,294 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ---------------- semantic tokens ---------------- */
+:root {
+  --bg: #f4f5f7;
+  --bg-elev: #eceef1;
+  --surface: #ffffff;
+  --surface-2: #f8f9fb;
+  --surface-3: #f1f3f6;
+  --border: #e0e3e9;
+  --border-strong: #cdd2db;
+  --text: #0d1117;
+  --text-muted: #5b6472;
+  --text-faint: #8b94a3;
+  --accent: #4f46e5;
+  --accent-soft: #eef0fe;
+  --accent-text: #4338ca;
+  --positive: #0f9d58;
+  --positive-soft: #e7f6ee;
+  --negative: #d93025;
+  --negative-soft: #fdeceb;
+  --warning: #c2820a;
+  --warning-soft: #fdf3e0;
+  --info: #1a73e8;
+  --info-soft: #e9f1fd;
+  --shadow-card: 0 1px 2px rgb(13 17 23 / 0.05), 0 1px 3px rgb(13 17 23 / 0.04);
+  --shadow-pop: 0 12px 40px -8px rgb(13 17 23 / 0.18), 0 4px 12px rgb(13 17 23 / 0.08);
+  --grid-line: rgb(13 17 23 / 0.06);
+}
+
+.dark {
+  --bg: #0a0c10;
+  --bg-elev: #0e1116;
+  --surface: #13171e;
+  --surface-2: #171c24;
+  --surface-3: #1e242e;
+  --border: #232a35;
+  --border-strong: #333c4a;
+  --text: #e8ecf3;
+  --text-muted: #96a1b3;
+  --text-faint: #66707f;
+  --accent: #7c74ff;
+  --accent-soft: #1c1b3a;
+  --accent-text: #a49dff;
+  --positive: #3fcf8e;
+  --positive-soft: #0e2a1f;
+  --negative: #ff6b60;
+  --negative-soft: #2c1512;
+  --warning: #e5b04b;
+  --warning-soft: #2a2113;
+  --info: #5fa8ff;
+  --info-soft: #101f33;
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-pop: 0 20px 60px -12px rgb(0 0 0 / 0.7), 0 4px 16px rgb(0 0 0 / 0.4);
+  --grid-line: rgb(255 255 255 / 0.05);
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-elev: var(--bg-elev);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-line: var(--border);
+  --color-line-strong: var(--border-strong);
+  --color-ink: var(--text);
+  --color-muted: var(--text-muted);
+  --color-faint: var(--text-faint);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-text: var(--accent-text);
+  --color-positive: var(--positive);
+  --color-positive-soft: var(--positive-soft);
+  --color-negative: var(--negative);
+  --color-negative-soft: var(--negative-soft);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+  --color-info: var(--info);
+  --color-info-soft: var(--info-soft);
+
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Instrument Serif', ui-serif, Georgia, serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+
+  --shadow-card: var(--shadow-card);
+  --shadow-pop: var(--shadow-pop);
+}
+
+/* ---------------- base ---------------- */
+* {
+  border-color: var(--border);
+}
+
+html {
+  background: var(--bg);
+  color-scheme: light;
+}
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+*::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 99px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--text-faint);
+  background-clip: content-box;
+}
+
+/* ---------------- utilities ---------------- */
+@utility font-display {
+  font-family: var(--font-serif);
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.hairline {
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--border);
+}
+
+.grain {
+  background-image: radial-gradient(var(--grid-line) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+.glow-accent {
+  box-shadow: 0 0 0 1px var(--border), 0 0 0 4px var(--accent-soft);
+}
+
+/* entrance animations */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.animate-rise {
+  animation: rise 0.32s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.animate-fade {
+  animation: fade 0.24s ease both;
+}
+
+@keyframes sweep {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(220%);
+  }
+}
+.animate-sweep {
+  animation: sweep 1.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@keyframes pulse-dot {
+  0%,
+  100% {
+    opacity: 0.35;
+    transform: scale(0.85);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+.animate-pulse-dot {
+  animation: pulse-dot 1.4s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -400px 0;
+  }
+  100% {
+    background-position: 400px 0;
+  }
+}
+.shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--surface-2) 0%,
+    var(--surface-3) 45%,
+    var(--surface-2) 90%
+  );
+  background-size: 800px 100%;
+  animation: shimmer 1.6s linear infinite;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+  }
+}
+
+/* ---------------- print ---------------- */
+@page {
+  margin: 14mm 14mm 16mm;
+}
+
+@media print {
+  html,
+  html.dark,
+  body,
+  #root,
+  #root > div {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  /* the shell is sized for the viewport — in print that leaves a blank page */
+  #root > div {
+    min-height: 0 !important;
+    height: auto !important;
+  }
+
+  main {
+    display: block !important;
+    min-height: 0 !important;
+  }
+
+  /* the print document paints its own white page */
+  .print\:block {
+    background: #fff !important;
+  }
+
+  /* the interactive shell disappears; .print:block content takes over */
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  /* the agent drawer and floating triggers must never print */
+  aside[class*='fixed'],
+  button[class*='fixed'] {
+    display: none !important;
+  }
+}

@@ -1,0 +1,1415 @@
+{
+  "id": "b-ada-chen-1793602289692",
+  "subject": "Ada Chen",
+  "type": "person",
+  "generatedAt": "2026-11-02T06:51:29.692Z",
+  "windowDays": 30,
+  "windowStart": "2026-10-03T06:51:29.692Z",
+  "windowEnd": "2026-11-02T06:51:29.692Z",
+  "snapshot": {
+    "type": "person",
+    "name": "Ada Chen",
+    "legalName": "Ada Chen",
+    "tagline": "Independent Director at Beacon AI",
+    "sector": "Board & advisory",
+    "headquarters": "Singapore",
+    "founded": "2020",
+    "tags": [
+      "Board & advisory",
+      "advisor",
+      "~6y tenure",
+      "Beacon AI"
+    ],
+    "facts": [
+      {
+        "label": "Current role",
+        "value": "Independent Director, Beacon AI",
+        "hint": "Verified within the research window"
+      },
+      {
+        "label": "Base",
+        "value": "Singapore",
+        "hint": "Company headquarters"
+      },
+      {
+        "label": "Sector",
+        "value": "Board & advisory"
+      },
+      {
+        "label": "In role",
+        "value": "6 years"
+      },
+      {
+        "label": "Prior",
+        "value": "Spotify · Investment"
+      },
+      {
+        "label": "Board seats",
+        "value": "2"
+      },
+      {
+        "label": "Public presence",
+        "value": "essay · ~1M followers"
+      },
+      {
+        "label": "Notable",
+        "value": "Keynote at the US tech conference, 2023"
+      }
+    ],
+    "keyPeople": [
+      {
+        "name": "Ada Chen",
+        "role": "Independent Director",
+        "note": "Subject of this briefing · Beacon AI"
+      },
+      {
+        "name": "Nadia Alvarez",
+        "role": "Chief of Staff",
+        "note": "Often the best first call for anything not on the public record"
+      },
+      {
+        "name": "Naomi Bianchi",
+        "role": "Head of Communications",
+        "note": "Owns external messaging and press timing"
+      }
+    ],
+    "watchlist": [
+      "Employer: Beacon AI",
+      "Sector: Board & advisory",
+      "Board & advisors",
+      "Public statements"
+    ],
+    "website": "ada-chen.example.com"
+  },
+  "news": [
+    {
+      "id": "n-0-beacon-ai-",
+      "headline": "Beacon AI to hire 259 across Policy teams",
+      "summary": "Beacon AI confirmed 259 open roles, most of them in Policy functions.",
+      "whyItMatters": "Role mix tells you where the constraint is believed to be, whether or not that is true.",
+      "source": "Korea Herald",
+      "publishedAt": "2026-11-02T15:05:00.000Z",
+      "category": "hiring",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen",
+        "Engineering"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the hiring plan. What is behind those numbers?"
+    },
+    {
+      "id": "n-5-analysts-s",
+      "headline": "Analysts split on whether Beacon AI can sustain 19% growth",
+      "summary": "Sell-side commentary diverged sharply on whether Beacon AI can hold its current growth trajectory.",
+      "whyItMatters": "When the street disagrees, ask which side of the debate the internal numbers support — it surfaces real information.",
+      "source": "Business Insider",
+      "publishedAt": "2026-11-02T14:38:00.000Z",
+      "category": "analysis",
+      "sentiment": "neutral",
+      "impact": 3,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": true,
+      "opener": "The consensus seems to assume something. What are they getting wrong?"
+    },
+    {
+      "id": "n-15-ada-chen-t",
+      "headline": "Ada Chen to step down as Beacon AI CEO, Nadia Oyelaran named successor",
+      "summary": "Ada Chen will leave Beacon AI, with Nadia Oyelaran taking the chief executive role after an internal transition.",
+      "whyItMatters": "A leadership transition changes who you are actually meeting and what authority their answers carry.",
+      "source": "Sifted",
+      "publishedAt": "2026-11-01T20:38:00.000Z",
+      "category": "leadership",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "New leadership usually means new priorities. What are yours now?"
+    },
+    {
+      "id": "n-11-beacon-ai-",
+      "headline": "Beacon AI in talks to acquire Onyx Collective",
+      "summary": "Reports indicate Beacon AI is in advanced talks to acquire Onyx Collective.",
+      "whyItMatters": "Unconfirmed deals are safe to raise neutrally and will tell you how candid they intend to be.",
+      "source": "Reuters",
+      "publishedAt": "2026-11-01T19:00:00.000Z",
+      "category": "acquisition",
+      "sentiment": "neutral",
+      "impact": 3,
+      "entities": [
+        "Beacon AI",
+        "Onyx Collective"
+      ],
+      "inWindow": true,
+      "isKey": true,
+      "opener": "What did you buy that you could not have built?"
+    },
+    {
+      "id": "n-20-analysts-s",
+      "headline": "Analysts split on whether Beacon AI can sustain 4% growth",
+      "summary": "Sell-side commentary diverged sharply on whether Beacon AI can hold its current growth trajectory.",
+      "whyItMatters": "When the street disagrees, ask which side of the debate the internal numbers support — it surfaces real information.",
+      "source": "Financial Times",
+      "publishedAt": "2026-11-01T18:25:00.000Z",
+      "category": "analysis",
+      "sentiment": "neutral",
+      "impact": 1,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The consensus seems to assume something. What are they getting wrong?"
+    },
+    {
+      "id": "n-7-what-beaco",
+      "headline": "What Beacon AI’s Flow launch means for EMEA enterprise budgets",
+      "summary": "An analysis of Beacon AI’s release argues it reshapes how EMEA enterprises budget for unit economics.",
+      "whyItMatters": "Framing you can borrow for the meeting — especially the competitive comparison they assume.",
+      "source": "CNBC",
+      "publishedAt": "2026-11-01T11:05:00.000Z",
+      "category": "analysis",
+      "sentiment": "neutral",
+      "impact": 3,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": true,
+      "opener": "The consensus seems to assume something. What are they getting wrong?"
+    },
+    {
+      "id": "n-24-analysts-s",
+      "headline": "Analysts split on whether Beacon AI can sustain 7% growth",
+      "summary": "Sell-side commentary diverged sharply on whether Beacon AI can hold its current growth trajectory.",
+      "whyItMatters": "When the street disagrees, ask which side of the debate the internal numbers support — it surfaces real information.",
+      "source": "Rest of World",
+      "publishedAt": "2026-11-01T10:05:00.000Z",
+      "category": "analysis",
+      "sentiment": "neutral",
+      "impact": 3,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": true,
+      "opener": "The consensus seems to assume something. What are they getting wrong?"
+    },
+    {
+      "id": "n-9-beacon-ai-",
+      "headline": "Beacon AI names Kenji Dubois head of Infrastructure",
+      "summary": "Beacon AI appointed Kenji Dubois to lead Infrastructure, a newly consolidated function.",
+      "whyItMatters": "A new head of function means their priorities are the priorities for the next two quarters.",
+      "source": "Reuters",
+      "publishedAt": "2026-10-31T12:51:00.000Z",
+      "category": "hiring",
+      "sentiment": "neutral",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen",
+        "Infrastructure"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "Where is the constraint you are actually hiring against?"
+    },
+    {
+      "id": "n-22-beacon-ai-",
+      "headline": "Beacon AI opens Toronto office",
+      "summary": "Beacon AI opened a new office in Toronto, its third in that market.",
+      "whyItMatters": "A new office is a bet on revenue that has not landed yet — useful for testing conviction.",
+      "source": "Fortune",
+      "publishedAt": "2026-10-31T12:18:00.000Z",
+      "category": "expansion",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Japan"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw you're expanding. What's driving the timing?"
+    },
+    {
+      "id": "n-2-beacon-ai-",
+      "headline": "Beacon AI previews Flow roadmap at developer event",
+      "summary": "At its developer event Beacon AI outlined the next two quarters of Flow work.",
+      "whyItMatters": "Roadmap previews tell you what the team believes is next — ask what is deliberately absent.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-31T10:51:00.000Z",
+      "category": "product",
+      "sentiment": "neutral",
+      "impact": 1,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I want to understand what problem Flow was built for — not what it does."
+    },
+    {
+      "id": "n-12-beacon-ai-",
+      "headline": "Beacon AI opens Austin office",
+      "summary": "Beacon AI opened a new office in Austin, its third in that market.",
+      "whyItMatters": "A new office is a bet on revenue that has not landed yet — useful for testing conviction.",
+      "source": "Rest of World",
+      "publishedAt": "2026-10-30T15:12:00.000Z",
+      "category": "expansion",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Japan"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw you're expanding. What's driving the timing?"
+    },
+    {
+      "id": "n-23-layoffs-at",
+      "headline": "Layoffs at Beacon AI affect 271 employees",
+      "summary": "Beacon AI restructured teams, cutting 271 roles concentrated in a single function.",
+      "whyItMatters": "Layoffs change who in the room can answer for what — and they are usually under-discussed externally.",
+      "source": "Fortune",
+      "publishedAt": "2026-10-29T16:31:00.000Z",
+      "category": "hiring",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen",
+        "Infrastructure"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the restructuring. How did you land it with the team?"
+    },
+    {
+      "id": "n-6-beacon-ai-",
+      "headline": "Beacon AI opens Bangalore office",
+      "summary": "Beacon AI opened a new office in Bangalore, its third in that market.",
+      "whyItMatters": "A new office is a bet on revenue that has not landed yet — useful for testing conviction.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "category": "expansion",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Europe"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw you're expanding. What's driving the timing?"
+    },
+    {
+      "id": "n-1-beacon-ai-",
+      "headline": "Beacon AI settles dispute without admitting fault",
+      "summary": "Beacon AI settled the matter confidentially, with no admission of wrongdoing.",
+      "whyItMatters": "Confidential settlements are rarely fully settled internally — ask what changed in policy.",
+      "source": "PitchBook News",
+      "publishedAt": "2026-10-25T20:25:00.000Z",
+      "category": "litigation",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the legal coverage. How are you handling it?"
+    },
+    {
+      "id": "n-16-ada-chen-c",
+      "headline": "Ada Chen calls public positioning \"the defining question of the next decade\"",
+      "summary": "In a essay appearance, Ada Chen framed public positioning as the central strategic question for the industry.",
+      "whyItMatters": "Their own framing tells you the language they want to use — borrowing it keeps the conversation on their terms.",
+      "source": "Axios",
+      "publishedAt": "2026-10-25T18:05:00.000Z",
+      "category": "social",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "That framing is interesting. Do you believe it?"
+    },
+    {
+      "id": "n-21-beacon-ai-",
+      "headline": "Beacon AI valuation reported at $251M in secondary sale",
+      "summary": "A secondary transaction valued Beacon AI at approximately $251M.",
+      "whyItMatters": "Secondary marks are the market’s most honest price — it is often more useful than the last primary round.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-25T16:25:00.000Z",
+      "category": "markets",
+      "sentiment": "neutral",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Halcyon Partners"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "How do you read what the market is pricing in?"
+    },
+    {
+      "id": "n-8-beacon-ai-",
+      "headline": "Beacon AI signs Helio Works to bring Flow to LATAM",
+      "summary": "Beacon AI and Helio Works announced a multi-year partnership covering Flow distribution in LATAM.",
+      "whyItMatters": "Distribution partnerships quietly define which markets a company can win; this one just got bigger.",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-25T07:12:00.000Z",
+      "category": "partnerships",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Helio Works"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The Helio Works arrangement is interesting. How did that conversation start?"
+    },
+    {
+      "id": "n-4-beacon-ai-",
+      "headline": "Beacon AI ships Flow, promising model quality gains",
+      "summary": "The new Flow release focuses on model quality and is available to all customers from launch.",
+      "whyItMatters": "A shipping release is a safe opener — asking what it displaces gets you more than asking whether it works.",
+      "source": "CNBC",
+      "publishedAt": "2026-10-20T10:05:00.000Z",
+      "category": "product",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The release landed well. What were you trying to make possible with it?"
+    },
+    {
+      "id": "n-14-beacon-ai-",
+      "headline": "Beacon AI open-sources core Flow technology",
+      "summary": "Beacon AI moved the core of Flow to an open licence, publishing the model weights and training code.",
+      "whyItMatters": "Open-sourcing is usually a distribution or ecosystem play; understanding the monetization path is the real question.",
+      "source": "The Information",
+      "publishedAt": "2026-10-19T09:31:00.000Z",
+      "category": "product",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The release landed well. What were you trying to make possible with it?"
+    },
+    {
+      "id": "n-19-beacon-ai-",
+      "headline": "Beacon AI ships Flow, promising integrations gains",
+      "summary": "The new Flow release focuses on integrations and is available to all customers from launch.",
+      "whyItMatters": "A shipping release is a safe opener — asking what it displaces gets you more than asking whether it works.",
+      "source": "Bloomberg Technology",
+      "publishedAt": "2026-10-15T15:00:00.000Z",
+      "category": "product",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The release landed well. What were you trying to make possible with it?"
+    },
+    {
+      "id": "n-10-beacon-ai-",
+      "headline": "Beacon AI renews key account despite competitive bidding",
+      "summary": "Beacon AI retained a major account through a renewal cycle in which two competitors bid.",
+      "whyItMatters": "Winning a contested renewal is the clearest evidence of product pull versus contract inertia.",
+      "source": "Mint",
+      "publishedAt": "2026-10-13T07:44:00.000Z",
+      "category": "customers",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Westport Media"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I noticed the Westport Media win. What made the difference in that evaluation?"
+    },
+    {
+      "id": "n-17-beacon-ai-",
+      "headline": "Beacon AI trends after interview segment on Flow",
+      "summary": "A interview segment about Flow drew significant attention and renewed discussion of Beacon AI.",
+      "whyItMatters": "Public attention shifts the agenda — there may be a narrative they want to steer in your meeting.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-12T06:25:00.000Z",
+      "category": "social",
+      "sentiment": "neutral",
+      "impact": 3,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen"
+      ],
+      "inWindow": true,
+      "isKey": true,
+      "opener": "That framing is interesting. Do you believe it?"
+    },
+    {
+      "id": "n-3-beacon-ai-",
+      "headline": "Beacon AI to hire 175 across Policy teams",
+      "summary": "Beacon AI confirmed 175 open roles, most of them in Policy functions.",
+      "whyItMatters": "Role mix tells you where the constraint is believed to be, whether or not that is true.",
+      "source": "Sifted",
+      "publishedAt": "2026-10-11T19:31:00.000Z",
+      "category": "hiring",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen",
+        "Research"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the hiring plan. What is behind those numbers?"
+    },
+    {
+      "id": "n-13-beacon-ai-",
+      "headline": "Beacon AI sued over antitrust exposure by former employees",
+      "summary": "A group of former employees filed a claim against Beacon AI, centred on antitrust exposure.",
+      "whyItMatters": "Employment litigation surfaces internal culture facts that rarely appear in any deck.",
+      "source": "Reuters",
+      "publishedAt": "2026-10-11T07:38:00.000Z",
+      "category": "litigation",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the legal coverage. How much does it distract the team, honestly?"
+    },
+    {
+      "id": "n-18-beacon-ai-",
+      "headline": "Beacon AI rolls back Flow release after onboarding complaints",
+      "summary": "Beacon AI withdrew a recent Flow update following customer reports tied to onboarding.",
+      "whyItMatters": "A rollback is a live reliability issue — it is a factual, non-confrontational topic that opens useful technical conversation.",
+      "source": "Axios",
+      "publishedAt": "2026-10-07T19:18:00.000Z",
+      "category": "product",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I've seen some grumbling about Flow. What's going on there?"
+    },
+    {
+      "id": "n-25-bluefield-",
+      "headline": "Bluefield Foods signs Beacon AI for workflow automation across North America",
+      "summary": "Bluefield Foods selected Flow for workflow automation across its North America operations.",
+      "whyItMatters": "Named enterprise wins show what actually sells — the selection criteria they used is worth copying.",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-02T14:25:00.000Z",
+      "category": "customers",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Bluefield Foods"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I noticed the Bluefield Foods win. What made the difference in that evaluation?"
+    },
+    {
+      "id": "n-32-nimbus-tel",
+      "headline": "Nimbus Telecom signs Beacon AI for the enterprise tier across APAC",
+      "summary": "Nimbus Telecom selected Flow for the enterprise tier across its APAC operations.",
+      "whyItMatters": "Named enterprise wins show what actually sells — the selection criteria they used is worth copying.",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-09-30T20:00:00.000Z",
+      "category": "customers",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Nimbus Telecom"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I noticed the Nimbus Telecom win. What made the difference in that evaluation?"
+    },
+    {
+      "id": "n-26-beacon-ai-",
+      "headline": "Beacon AI shares -21% as the product roadmap comes into focus",
+      "summary": "Beacon AI stock moved -21% as investors focused on the product roadmap.",
+      "whyItMatters": "How the market received the last update is the baseline expectation they will be measuring against in the room.",
+      "source": "Axios",
+      "publishedAt": "2026-09-30T10:31:00.000Z",
+      "category": "markets",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "Verdant Growth"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market took that badly. How are you reading it?"
+    },
+    {
+      "id": "n-35-ada-chen-i",
+      "headline": "Ada Chen increases stake in Beacon AI after results",
+      "summary": "Ada Chen bought a meaningful stake in Beacon AI following the latest quarterly results.",
+      "whyItMatters": "Insider buying aligns the person in front of you with the equity outcome — useful context for direct questions.",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-29T15:25:00.000Z",
+      "category": "leadership",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I noticed some movement on the leadership team. How has that changed the day-to-day?"
+    },
+    {
+      "id": "n-36-beacon-ai-",
+      "headline": "Beacon AI ships Flow, promising developer tooling gains",
+      "summary": "The new Flow release focuses on developer tooling and is available to all customers from launch.",
+      "whyItMatters": "A shipping release is a safe opener — asking what it displaces gets you more than asking whether it works.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-09-28T20:18:00.000Z",
+      "category": "product",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The release landed well. What were you trying to make possible with it?"
+    },
+    {
+      "id": "n-30-beacon-ai-",
+      "headline": "Beacon AI in talks to acquire Arcadia Foundry",
+      "summary": "Reports indicate Beacon AI is in advanced talks to acquire Arcadia Foundry.",
+      "whyItMatters": "Unconfirmed deals are safe to raise neutrally and will tell you how candid they intend to be.",
+      "source": "Mint",
+      "publishedAt": "2026-09-26T12:25:00.000Z",
+      "category": "acquisition",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Arcadia Foundry"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "What did you buy that you could not have built?"
+    },
+    {
+      "id": "n-29-layoffs-at",
+      "headline": "Layoffs at Beacon AI affect 49 employees",
+      "summary": "Beacon AI restructured teams, cutting 49 roles concentrated in a single function.",
+      "whyItMatters": "Layoffs change who in the room can answer for what — and they are usually under-discussed externally.",
+      "source": "Fortune",
+      "publishedAt": "2026-09-26T07:00:00.000Z",
+      "category": "hiring",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen",
+        "Product"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I saw the restructuring. How did you land it with the team?"
+    },
+    {
+      "id": "n-34-what-beaco",
+      "headline": "What Beacon AI’s Flow launch means for APAC enterprise budgets",
+      "summary": "An analysis of Beacon AI’s release argues it reshapes how APAC enterprises budget for unit economics.",
+      "whyItMatters": "Framing you can borrow for the meeting — especially the competitive comparison they assume.",
+      "source": "PitchBook News",
+      "publishedAt": "2026-09-25T11:31:00.000Z",
+      "category": "analysis",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Beacon AI"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The consensus seems to assume something. What are they getting wrong?"
+    },
+    {
+      "id": "n-28-beacon-ai-",
+      "headline": "Beacon AI to hire 126 in North America over next year",
+      "summary": "Beacon AI plans to add 126 roles in North America, concentrated in engineering and go-to-market.",
+      "whyItMatters": "Hiring plans are the closest thing to a public forecast they will give you.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-24T19:44:00.000Z",
+      "category": "expansion",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Beacon AI",
+        "North America"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I saw you're expanding. What's driving the timing?"
+    },
+    {
+      "id": "n-31-beacon-ai-",
+      "headline": "Beacon AI trends after podcast segment on Flow",
+      "summary": "A podcast segment about Flow drew significant attention and renewed discussion of Beacon AI.",
+      "whyItMatters": "Public attention shifts the agenda — there may be a narrative they want to steer in your meeting.",
+      "source": "The Information",
+      "publishedAt": "2026-09-21T15:18:00.000Z",
+      "category": "social",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "That framing is interesting. Do you believe it?"
+    },
+    {
+      "id": "n-27-ada-chen-c",
+      "headline": "Ada Chen calls industry narrative \"the defining question of the next decade\"",
+      "summary": "In a newsletter appearance, Ada Chen framed industry narrative as the central strategic question for the industry.",
+      "whyItMatters": "Their own framing tells you the language they want to use — borrowing it keeps the conversation on their terms.",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-21T13:00:00.000Z",
+      "category": "social",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Beacon AI",
+        "Ada Chen"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "That framing is interesting. Do you believe it?"
+    },
+    {
+      "id": "n-33-beacon-ai-",
+      "headline": "Beacon AI opens Seoul office",
+      "summary": "Beacon AI opened a new office in Seoul, its third in that market.",
+      "whyItMatters": "A new office is a bet on revenue that has not landed yet — useful for testing conviction.",
+      "source": "The Economic Times",
+      "publishedAt": "2026-09-20T10:44:00.000Z",
+      "category": "expansion",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Beacon AI",
+        "APAC"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I saw you're expanding. What's driving the timing?"
+    }
+  ],
+  "signals": [
+    {
+      "id": "sig-risk-1",
+      "kind": "risk",
+      "title": "Adverse cluster in the last 30 days",
+      "detail": "1 notable negative items in-window, led by \"Layoffs at Beacon AI affect 271 employees\". Expect this to be on their agenda even if it is not on yours.",
+      "evidence": [
+        "n-23-layoffs-at"
+      ],
+      "severity": 2
+    },
+    {
+      "id": "sig-opp-1",
+      "kind": "opportunity",
+      "title": "Momentum you can build on",
+      "detail": "3 notable positive items, led by \"Beacon AI opens Austin office\". Naming something they are proud of — and asking them to extend it — is the cheapest way to build rapport.",
+      "evidence": [
+        "n-12-beacon-ai-",
+        "n-6-beacon-ai-",
+        "n-4-beacon-ai-"
+      ],
+      "severity": 2
+    },
+    {
+      "id": "sig-watch-1",
+      "kind": "watch",
+      "title": "Narrative is concentrating on product",
+      "detail": "5 of the 25 in-window items touch product. Coverage concentration means it is the frame external stakeholders are using — meeting well means meeting inside that frame, or deliberately outside it.",
+      "evidence": [
+        "n-2-beacon-ai-",
+        "n-4-beacon-ai-",
+        "n-14-beacon-ai-"
+      ],
+      "severity": 1
+    },
+    {
+      "id": "sig-watch-2",
+      "kind": "watch",
+      "title": "Two or more high-impact events in one window",
+      "detail": "5 items were classified as high impact. When multiple material events land close together, teams are usually mid-firefight rather than in a reflective state — keep the agenda short.",
+      "evidence": [
+        "n-5-analysts-s",
+        "n-11-beacon-ai-",
+        "n-7-what-beaco"
+      ],
+      "severity": 2
+    }
+  ],
+  "talkingPoints": [
+    {
+      "id": "tp-n-5-analysts-s",
+      "text": "Analysts split on whether Beacon AI can sustain 19% growth",
+      "rationale": "When the street disagrees, ask which side of the debate the internal numbers support — it surfaces real information.",
+      "opener": "I'd like to start from something recent: \"Analysts split on whether Beacon AI can sustain 19% growth.\"",
+      "evidence": [
+        "n-5-analysts-s"
+      ]
+    },
+    {
+      "id": "tp-n-11-beacon-ai-",
+      "text": "Beacon AI in talks to acquire Onyx Collective",
+      "rationale": "Unconfirmed deals are safe to raise neutrally and will tell you how candid they intend to be.",
+      "opener": "What did you buy that you could not have built?",
+      "evidence": [
+        "n-11-beacon-ai-"
+      ]
+    },
+    {
+      "id": "tp-n-7-what-beaco",
+      "text": "What Beacon AI’s Flow launch means for EMEA enterprise budgets",
+      "rationale": "Framing you can borrow for the meeting — especially the competitive comparison they assume.",
+      "opener": "The consensus seems to assume something. What are they getting wrong?",
+      "evidence": [
+        "n-7-what-beaco"
+      ]
+    },
+    {
+      "id": "tp-n-24-analysts-s",
+      "text": "Analysts split on whether Beacon AI can sustain 7% growth",
+      "rationale": "When the street disagrees, ask which side of the debate the internal numbers support — it surfaces real information.",
+      "opener": "The consensus seems to assume something. What are they getting wrong?",
+      "evidence": [
+        "n-24-analysts-s"
+      ]
+    },
+    {
+      "id": "tp-n-17-beacon-ai-",
+      "text": "Beacon AI trends after interview segment on Flow",
+      "rationale": "Public attention shifts the agenda — there may be a narrative they want to steer in your meeting.",
+      "opener": "That framing is interesting. Do you believe it?",
+      "evidence": [
+        "n-17-beacon-ai-"
+      ]
+    },
+    {
+      "id": "tp-profile",
+      "text": "Anchor the conversation in their current mandate",
+      "rationale": "Their role is Independent Director at Beacon AI. Understanding the mandate they are measured on explains which questions they can actually answer.",
+      "opener": "Before we go further — I would like to understand how you are being measured right now.",
+      "evidence": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-negative",
+      "question": "How are you thinking about \"Layoffs at Beacon AI affect 271 employees\"?",
+      "why": "It was widely covered as a negative development. Asking them to explain it — rather than waiting for them to raise it — usually gets a more complete answer.",
+      "category": "strategy",
+      "evidence": [
+        "n-23-layoffs-at"
+      ]
+    },
+    {
+      "id": "q-positive",
+      "question": "What would need to be true for the momentum behind \"Beacon AI opens Austin office\" to continue?",
+      "why": "Extends something they are proud of, which reads as interest rather than interrogation, and pulls out their success criteria.",
+      "category": "business",
+      "evidence": [
+        "n-12-beacon-ai-"
+      ]
+    },
+    {
+      "id": "q-2",
+      "question": "What changed in the last 30 days that is not yet public?",
+      "why": "Gives them room to be candid without putting a specific claim on the record, and reliably surfaces the internal narrative.",
+      "category": "strategy",
+      "evidence": []
+    },
+    {
+      "id": "q-3",
+      "question": "What would you do differently if you had twice the current budget?",
+      "why": "Reveals their real constraint without asking them to admit it, and gets prioritisation logic instead of a list.",
+      "category": "strategy",
+      "evidence": []
+    },
+    {
+      "id": "q-4",
+      "question": "Where is the gap between what you have announced and what is actually shipping?",
+      "why": "Announcements are lagging indicators; the gap between announced and shipped is where the real risk lives.",
+      "category": "product",
+      "evidence": []
+    },
+    {
+      "id": "q-5",
+      "question": "What is the assumption in your plan that worries you most?",
+      "why": "A high-signal question that is almost always answered honestly, because it asks about doubt rather than performance.",
+      "category": "business",
+      "evidence": []
+    },
+    {
+      "id": "q-plan",
+      "question": "How confident are you in the hiring and expansion plan you have described publicly?",
+      "why": "Public plans are usually a floor rather than a forecast. Their real number is the useful one.",
+      "category": "team",
+      "evidence": [
+        "n-0-beacon-ai-"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-n-0-beacon-ai-",
+      "name": "Korea Herald",
+      "publishedAt": "2026-11-02T15:05:00.000Z",
+      "headline": "Beacon AI to hire 259 across Policy teams",
+      "category": "hiring",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-5-analysts-s",
+      "name": "Business Insider",
+      "publishedAt": "2026-11-02T14:38:00.000Z",
+      "headline": "Analysts split on whether Beacon AI can sustain 19% growth",
+      "category": "analysis",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-15-ada-chen-t",
+      "name": "Sifted",
+      "publishedAt": "2026-11-01T20:38:00.000Z",
+      "headline": "Ada Chen to step down as Beacon AI CEO, Nadia Oyelaran named successor",
+      "category": "leadership",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-11-beacon-ai-",
+      "name": "Reuters",
+      "publishedAt": "2026-11-01T19:00:00.000Z",
+      "headline": "Beacon AI in talks to acquire Onyx Collective",
+      "category": "acquisition",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-20-analysts-s",
+      "name": "Financial Times",
+      "publishedAt": "2026-11-01T18:25:00.000Z",
+      "headline": "Analysts split on whether Beacon AI can sustain 4% growth",
+      "category": "analysis",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-7-what-beaco",
+      "name": "CNBC",
+      "publishedAt": "2026-11-01T11:05:00.000Z",
+      "headline": "What Beacon AI’s Flow launch means for EMEA enterprise budgets",
+      "category": "analysis",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-24-analysts-s",
+      "name": "Rest of World",
+      "publishedAt": "2026-11-01T10:05:00.000Z",
+      "headline": "Analysts split on whether Beacon AI can sustain 7% growth",
+      "category": "analysis",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-9-beacon-ai-",
+      "name": "Reuters",
+      "publishedAt": "2026-10-31T12:51:00.000Z",
+      "headline": "Beacon AI names Kenji Dubois head of Infrastructure",
+      "category": "hiring",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-22-beacon-ai-",
+      "name": "Fortune",
+      "publishedAt": "2026-10-31T12:18:00.000Z",
+      "headline": "Beacon AI opens Toronto office",
+      "category": "expansion",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-2-beacon-ai-",
+      "name": "TechCrunch",
+      "publishedAt": "2026-10-31T10:51:00.000Z",
+      "headline": "Beacon AI previews Flow roadmap at developer event",
+      "category": "product",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-12-beacon-ai-",
+      "name": "Rest of World",
+      "publishedAt": "2026-10-30T15:12:00.000Z",
+      "headline": "Beacon AI opens Austin office",
+      "category": "expansion",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-23-layoffs-at",
+      "name": "Fortune",
+      "publishedAt": "2026-10-29T16:31:00.000Z",
+      "headline": "Layoffs at Beacon AI affect 271 employees",
+      "category": "hiring",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-6-beacon-ai-",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "headline": "Beacon AI opens Bangalore office",
+      "category": "expansion",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-1-beacon-ai-",
+      "name": "PitchBook News",
+      "publishedAt": "2026-10-25T20:25:00.000Z",
+      "headline": "Beacon AI settles dispute without admitting fault",
+      "category": "litigation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-16-ada-chen-c",
+      "name": "Axios",
+      "publishedAt": "2026-10-25T18:05:00.000Z",
+      "headline": "Ada Chen calls public positioning \"the defining question of the next decade\"",
+      "category": "social",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-21-beacon-ai-",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-10-25T16:25:00.000Z",
+      "headline": "Beacon AI valuation reported at $251M in secondary sale",
+      "category": "markets",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-8-beacon-ai-",
+      "name": "The Wall Street Journal",
+      "publishedAt": "2026-10-25T07:12:00.000Z",
+      "headline": "Beacon AI signs Helio Works to bring Flow to LATAM",
+      "category": "partnerships",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-4-beacon-ai-",
+      "name": "CNBC",
+      "publishedAt": "2026-10-20T10:05:00.000Z",
+      "headline": "Beacon AI ships Flow, promising model quality gains",
+      "category": "product",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-14-beacon-ai-",
+      "name": "The Information",
+      "publishedAt": "2026-10-19T09:31:00.000Z",
+      "headline": "Beacon AI open-sources core Flow technology",
+      "category": "product",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-19-beacon-ai-",
+      "name": "Bloomberg Technology",
+      "publishedAt": "2026-10-15T15:00:00.000Z",
+      "headline": "Beacon AI ships Flow, promising integrations gains",
+      "category": "product",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-10-beacon-ai-",
+      "name": "Mint",
+      "publishedAt": "2026-10-13T07:44:00.000Z",
+      "headline": "Beacon AI renews key account despite competitive bidding",
+      "category": "customers",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-17-beacon-ai-",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-10-12T06:25:00.000Z",
+      "headline": "Beacon AI trends after interview segment on Flow",
+      "category": "social",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-3-beacon-ai-",
+      "name": "Sifted",
+      "publishedAt": "2026-10-11T19:31:00.000Z",
+      "headline": "Beacon AI to hire 175 across Policy teams",
+      "category": "hiring",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-13-beacon-ai-",
+      "name": "Reuters",
+      "publishedAt": "2026-10-11T07:38:00.000Z",
+      "headline": "Beacon AI sued over antitrust exposure by former employees",
+      "category": "litigation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-18-beacon-ai-",
+      "name": "Axios",
+      "publishedAt": "2026-10-07T19:18:00.000Z",
+      "headline": "Beacon AI rolls back Flow release after onboarding complaints",
+      "category": "product",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-25-bluefield-",
+      "name": "The Wall Street Journal",
+      "publishedAt": "2026-10-02T14:25:00.000Z",
+      "headline": "Bluefield Foods signs Beacon AI for workflow automation across North America",
+      "category": "customers",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-32-nimbus-tel",
+      "name": "The Wall Street Journal",
+      "publishedAt": "2026-09-30T20:00:00.000Z",
+      "headline": "Nimbus Telecom signs Beacon AI for the enterprise tier across APAC",
+      "category": "customers",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-26-beacon-ai-",
+      "name": "Axios",
+      "publishedAt": "2026-09-30T10:31:00.000Z",
+      "headline": "Beacon AI shares -21% as the product roadmap comes into focus",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-35-ada-chen-i",
+      "name": "Financial Times",
+      "publishedAt": "2026-09-29T15:25:00.000Z",
+      "headline": "Ada Chen increases stake in Beacon AI after results",
+      "category": "leadership",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-36-beacon-ai-",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-09-28T20:18:00.000Z",
+      "headline": "Beacon AI ships Flow, promising developer tooling gains",
+      "category": "product",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-30-beacon-ai-",
+      "name": "Mint",
+      "publishedAt": "2026-09-26T12:25:00.000Z",
+      "headline": "Beacon AI in talks to acquire Arcadia Foundry",
+      "category": "acquisition",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-29-layoffs-at",
+      "name": "Fortune",
+      "publishedAt": "2026-09-26T07:00:00.000Z",
+      "headline": "Layoffs at Beacon AI affect 49 employees",
+      "category": "hiring",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-34-what-beaco",
+      "name": "PitchBook News",
+      "publishedAt": "2026-09-25T11:31:00.000Z",
+      "headline": "What Beacon AI’s Flow launch means for APAC enterprise budgets",
+      "category": "analysis",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-28-beacon-ai-",
+      "name": "TechCrunch",
+      "publishedAt": "2026-09-24T19:44:00.000Z",
+      "headline": "Beacon AI to hire 126 in North America over next year",
+      "category": "expansion",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-31-beacon-ai-",
+      "name": "The Information",
+      "publishedAt": "2026-09-21T15:18:00.000Z",
+      "headline": "Beacon AI trends after podcast segment on Flow",
+      "category": "social",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-27-ada-chen-c",
+      "name": "Financial Times",
+      "publishedAt": "2026-09-21T13:00:00.000Z",
+      "headline": "Ada Chen calls industry narrative \"the defining question of the next decade\"",
+      "category": "social",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-33-beacon-ai-",
+      "name": "The Economic Times",
+      "publishedAt": "2026-09-20T10:44:00.000Z",
+      "headline": "Beacon AI opens Seoul office",
+      "category": "expansion",
+      "inWindow": false
+    }
+  ],
+  "sentimentTrend": [
+    {
+      "date": "2026-10-04",
+      "score": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-05",
+      "score": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-06",
+      "score": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-07",
+      "score": -1,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-08",
+      "score": -1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-09",
+      "score": -1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-10",
+      "score": -1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-11",
+      "score": -0.33,
+      "volume": 2
+    },
+    {
+      "date": "2026-10-12",
+      "score": -0.25,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-13",
+      "score": 0,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-14",
+      "score": 0.25,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-15",
+      "score": 0.4,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-16",
+      "score": 0.4,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-17",
+      "score": 0.4,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-18",
+      "score": 0.67,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-19",
+      "score": 1,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-20",
+      "score": 1,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-21",
+      "score": 1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-22",
+      "score": 1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-23",
+      "score": 1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-24",
+      "score": 1,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-25",
+      "score": 0.5,
+      "volume": 4
+    },
+    {
+      "date": "2026-10-26",
+      "score": 0.4,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-27",
+      "score": 0.25,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-28",
+      "score": 0.25,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-29",
+      "score": 0.17,
+      "volume": 2
+    },
+    {
+      "date": "2026-10-30",
+      "score": 0.29,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-31",
+      "score": 0.3,
+      "volume": 3
+    },
+    {
+      "date": "2026-11-01",
+      "score": 0.18,
+      "volume": 5
+    },
+    {
+      "date": "2026-11-02",
+      "score": 0.23,
+      "volume": 2
+    }
+  ],
+  "coverage": [
+    {
+      "category": "product",
+      "count": 5
+    },
+    {
+      "category": "hiring",
+      "count": 4
+    },
+    {
+      "category": "analysis",
+      "count": 4
+    },
+    {
+      "category": "expansion",
+      "count": 3
+    },
+    {
+      "category": "litigation",
+      "count": 2
+    },
+    {
+      "category": "social",
+      "count": 2
+    },
+    {
+      "category": "leadership",
+      "count": 1
+    },
+    {
+      "category": "acquisition",
+      "count": 1
+    },
+    {
+      "category": "markets",
+      "count": 1
+    },
+    {
+      "category": "partnerships",
+      "count": 1
+    },
+    {
+      "category": "customers",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "articles": 25,
+    "sources": 16,
+    "keyItems": 5,
+    "avgSentiment": 0.28,
+    "daysCovered": 13,
+    "categoriesCovered": 11
+  },
+  "grounding": [
+    "25 news items published within the last 30 days.",
+    "Distinct outlets: 16.",
+    "Most-covered categories: product, hiring, analysis.",
+    "Key people named: Ada Chen (Independent Director); Nadia Alvarez (Chief of Staff); Naomi Bianchi (Head of Communications).",
+    "Stage and positioning: Independent Director at Beacon AI. Singapore"
+  ],
+  "synthetic": true
+}

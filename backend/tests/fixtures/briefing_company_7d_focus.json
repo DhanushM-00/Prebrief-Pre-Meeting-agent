@@ -1,0 +1,1180 @@
+{
+  "id": "b-quantipay-1793602289695",
+  "subject": "Quantipay",
+  "type": "company",
+  "generatedAt": "2026-11-02T06:51:29.695Z",
+  "windowDays": 7,
+  "windowStart": "2026-10-26T06:51:29.695Z",
+  "windowEnd": "2026-11-02T06:51:29.695Z",
+  "snapshot": {
+    "type": "company",
+    "name": "Quantipay",
+    "legalName": "Quantipay, Inc.",
+    "tagline": "Financial technology · Series D stage",
+    "website": "quantipay.example.com",
+    "sector": "Financial technology",
+    "headquarters": "São Paulo, Brazil",
+    "founded": "2020",
+    "employeeCount": "~1,908",
+    "revenue": "$135M ARR",
+    "funding": "$47M",
+    "valuation": "$1931M",
+    "tags": [
+      "Financial technology",
+      "Series D",
+      "São Paulo",
+      "Rail"
+    ],
+    "facts": [
+      {
+        "label": "Stage",
+        "value": "Series D",
+        "hint": "Last round 4 months ago"
+      },
+      {
+        "label": "Valuation",
+        "value": "$1931M",
+        "hint": "Most recent mark"
+      },
+      {
+        "label": "Revenue",
+        "value": "$135M ARR",
+        "hint": "Trailing twelve months"
+      },
+      {
+        "label": "Headcount",
+        "value": "~1,908"
+      },
+      {
+        "label": "Founded",
+        "value": "2020",
+        "hint": "6 years operating"
+      },
+      {
+        "label": "Product",
+        "value": "Rail",
+        "hint": "Financial technology platform"
+      },
+      {
+        "label": "HQ",
+        "value": "São Paulo, Brazil"
+      },
+      {
+        "label": "Next milestone",
+        "value": "Europe entity"
+      }
+    ],
+    "keyPeople": [
+      {
+        "name": "Samuel Haddad",
+        "role": "Chief Executive Officer",
+        "note": "Primary external voice"
+      },
+      {
+        "name": "Idris Reyes",
+        "role": "Chief Financial Officer",
+        "note": "Owns capital allocation narrative"
+      },
+      {
+        "name": "Sofia Sørensen",
+        "role": "Chief Technology Officer",
+        "note": "Product and architecture decisions"
+      },
+      {
+        "name": "Samuel Reyes",
+        "role": "Head of Enterprise Sales",
+        "note": "Customer-side perspective"
+      }
+    ],
+    "watchlist": [
+      "Sector: Financial technology",
+      "Stage: Series D",
+      "Competitor set: 2 adjacent",
+      "Hiring: Active"
+    ]
+  },
+  "news": [
+    {
+      "id": "n-9-quantipay-",
+      "headline": "Quantipay sued over contract terms by former employees",
+      "summary": "A group of former employees filed a claim against Quantipay, centred on contract terms.",
+      "whyItMatters": "Employment litigation surfaces internal culture facts that rarely appear in any deck.",
+      "source": "Mint",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "category": "litigation",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the legal coverage. How much does it distract the team, honestly?"
+    },
+    {
+      "id": "n-6-quantipay-",
+      "headline": "Quantipay lands $783M to expand North America operations",
+      "summary": "The company said the $783M facility will fund hiring and go-to-market expansion across North America.",
+      "whyItMatters": "Capital tied to a specific region usually comes with local hiring and partner targets that show up in the roadmap.",
+      "source": "The Register",
+      "publishedAt": "2026-11-02T16:44:00.000Z",
+      "category": "funding",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Bluefield Ventures"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "A raise like that usually comes with big expectations. What are you promising the board?"
+    },
+    {
+      "id": "n-10-quantipay-",
+      "headline": "Quantipay rolls back Rail release after model quality complaints",
+      "summary": "Quantipay withdrew a recent Rail update following customer reports tied to model quality.",
+      "whyItMatters": "A rollback is a live reliability issue — it is a factual, non-confrontational topic that opens useful technical conversation.",
+      "source": "Bloomberg",
+      "publishedAt": "2026-11-02T16:25:00.000Z",
+      "category": "product",
+      "sentiment": "negative",
+      "impact": 3,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": true,
+      "isKey": true,
+      "opener": "I've seen some grumbling about Rail. What's going on there?"
+    },
+    {
+      "id": "n-3-quantipay-",
+      "headline": "Quantipay lands $789M to expand India operations",
+      "summary": "The company said the $789M facility will fund hiring and go-to-market expansion across India.",
+      "whyItMatters": "Capital tied to a specific region usually comes with local hiring and partner targets that show up in the roadmap.",
+      "source": "PitchBook News",
+      "publishedAt": "2026-11-02T10:38:00.000Z",
+      "category": "funding",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Ridgeway Partners"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "A raise like that usually comes with big expectations. What are you promising the board?"
+    },
+    {
+      "id": "n-1-judge-sets",
+      "headline": "Judge sets hearing date in Quantipay case",
+      "summary": "The court scheduled a hearing in the dispute involving Quantipay, with a decision expected within the quarter.",
+      "whyItMatters": "A dated hearing is a concrete timeline you can ask about without being accusatory.",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-11-02T07:00:00.000Z",
+      "category": "litigation",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the legal coverage. How much does it distract the team, honestly?"
+    },
+    {
+      "id": "n-8-quantipay-",
+      "headline": "Quantipay raises $251M in Series E round led by Cobalt Row",
+      "summary": "Cobalt Row led a $251M Series E round for Quantipay, valuing the business above its previous mark.",
+      "whyItMatters": "A fresh primary raise gives the team more optionality and signals investor conviction — worth knowing what they intend to spend it on.",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-31T13:31:00.000Z",
+      "category": "funding",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Cobalt Row"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I've been following the raise — can you walk me through where the money is actually going?"
+    },
+    {
+      "id": "n-2-quantipay-",
+      "headline": "Quantipay sued over antitrust exposure by former employees",
+      "summary": "A group of former employees filed a claim against Quantipay, centred on antitrust exposure.",
+      "whyItMatters": "Employment litigation surfaces internal culture facts that rarely appear in any deck.",
+      "source": "Handshake",
+      "publishedAt": "2026-10-30T06:05:00.000Z",
+      "category": "litigation",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the legal coverage. How much does it distract the team, honestly?"
+    },
+    {
+      "id": "n-0-quantipay-",
+      "headline": "Quantipay previews Rail roadmap at developer event",
+      "summary": "At its developer event Quantipay outlined the next two quarters of Rail work.",
+      "whyItMatters": "Roadmap previews tell you what the team believes is next — ask what is deliberately absent.",
+      "source": "Korea Herald",
+      "publishedAt": "2026-10-29T12:25:00.000Z",
+      "category": "product",
+      "sentiment": "neutral",
+      "impact": 1,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I want to understand what problem Rail was built for — not what it does."
+    },
+    {
+      "id": "n-4-quantipay-",
+      "headline": "Quantipay ships Rail, promising developer tooling gains",
+      "summary": "The new Rail release focuses on developer tooling and is available to all customers from launch.",
+      "whyItMatters": "A shipping release is a safe opener — asking what it displaces gets you more than asking whether it works.",
+      "source": "The Register",
+      "publishedAt": "2026-10-29T11:25:00.000Z",
+      "category": "product",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "The release landed well. What were you trying to make possible with it?"
+    },
+    {
+      "id": "n-5-investors-",
+      "headline": "Investors reportedly pass on Quantipay at a $1.8B valuation",
+      "summary": "Late-stage investors walked away from a marketed round that would have implied roughly $1.8B in valuation.",
+      "whyItMatters": "A passed round is the most direct signal of a valuation reset, and it changes the conversation about headcount and pricing.",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-29T06:12:00.000Z",
+      "category": "funding",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Bluefield Ventures"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "A passed round is a hard signal. How are you thinking about it from here?"
+    },
+    {
+      "id": "n-7-quantipay-",
+      "headline": "Quantipay settles dispute without admitting fault",
+      "summary": "Quantipay settled the matter confidentially, with no admission of wrongdoing.",
+      "whyItMatters": "Confidential settlements are rarely fully settled internally — ask what changed in policy.",
+      "source": "Korea Herald",
+      "publishedAt": "2026-10-28T08:38:00.000Z",
+      "category": "litigation",
+      "sentiment": "neutral",
+      "impact": 1,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": true,
+      "isKey": false,
+      "opener": "I saw the legal coverage. How are you handling it?"
+    },
+    {
+      "id": "n-24-quantipay-",
+      "headline": "Quantipay shares -14% as customer momentum comes into focus",
+      "summary": "Quantipay stock moved -14% as investors focused on customer momentum.",
+      "whyItMatters": "How the market received the last update is the baseline expectation they will be measuring against in the room.",
+      "source": "PitchBook News",
+      "publishedAt": "2026-10-26T08:51:00.000Z",
+      "category": "markets",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Quantipay",
+        "Halcyon Partners"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market took that badly. How are you reading it?"
+    },
+    {
+      "id": "n-16-quantipay-",
+      "headline": "Quantipay shares +11% as pipeline conversion comes into focus",
+      "summary": "Quantipay stock moved +11% as investors focused on pipeline conversion.",
+      "whyItMatters": "How the market received the last update is the baseline expectation they will be measuring against in the room.",
+      "source": "CNBC",
+      "publishedAt": "2026-10-25T08:51:00.000Z",
+      "category": "markets",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Quantipay",
+        "Ridgeway Partners"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market liked it. What do you make of the reaction?"
+    },
+    {
+      "id": "n-26-samuel-had",
+      "headline": "Samuel Haddad criticises competitors on public positioning",
+      "summary": "Speaking publicly, Samuel Haddad took a direct aim at rivals over public positioning.",
+      "whyItMatters": "How they describe competitors in public is how they want to position against your alternatives.",
+      "source": "Mint",
+      "publishedAt": "2026-10-24T11:51:00.000Z",
+      "category": "social",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Samuel Haddad"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "What was the subtext of saying that publicly?"
+    },
+    {
+      "id": "n-15-quantipay-",
+      "headline": "Quantipay shares +14% as customer momentum comes into focus",
+      "summary": "Quantipay stock moved +14% as investors focused on customer momentum.",
+      "whyItMatters": "How the market received the last update is the baseline expectation they will be measuring against in the room.",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T17:44:00.000Z",
+      "category": "markets",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Ridgeway Partners"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market liked it. What do you make of the reaction?"
+    },
+    {
+      "id": "n-11-quantipay-",
+      "headline": "Quantipay raises $157M in Series E round led by Verdant Growth",
+      "summary": "Verdant Growth led a $157M Series E round for Quantipay, valuing the business above its previous mark.",
+      "whyItMatters": "A fresh primary raise gives the team more optionality and signals investor conviction — worth knowing what they intend to spend it on.",
+      "source": "CNBC",
+      "publishedAt": "2026-10-23T13:18:00.000Z",
+      "category": "funding",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Quantipay",
+        "Verdant Growth"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I've been following the raise — can you walk me through where the money is actually going?"
+    },
+    {
+      "id": "n-22-samuel-had",
+      "headline": "Samuel Haddad calls industry narrative \"the defining question of the next decade\"",
+      "summary": "In a interview appearance, Samuel Haddad framed industry narrative as the central strategic question for the industry.",
+      "whyItMatters": "Their own framing tells you the language they want to use — borrowing it keeps the conversation on their terms.",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-10-22T10:44:00.000Z",
+      "category": "social",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Samuel Haddad"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "That framing is interesting. Do you believe it?"
+    },
+    {
+      "id": "n-19-quantipay-",
+      "headline": "Quantipay publishes transparency report on export controls",
+      "summary": "Quantipay released a detailed disclosure on how it handles export controls and its supply chain.",
+      "whyItMatters": "Proactive disclosure is a posture signal — it indicates how the team expects to be challenged.",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-19T13:25:00.000Z",
+      "category": "regulation",
+      "sentiment": "neutral",
+      "impact": 3,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "How much of the roadmap depends on how that resolves?"
+    },
+    {
+      "id": "n-33-quantipay-",
+      "headline": "Quantipay and Pulse Labs integrate Rail into enterprise suite",
+      "summary": "The companies connected Rail with Pulse Labs enterprise tooling, enabling shared identity and reporting.",
+      "whyItMatters": "Integration depth is a leading indicator of enterprise stickiness — worth confirming who owns the relationship.",
+      "source": "PitchBook News",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "category": "partnerships",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Quantipay",
+        "Pulse Labs"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The Pulse Labs arrangement is interesting. How did that conversation start?"
+    },
+    {
+      "id": "n-13-quantipay-",
+      "headline": "Quantipay shares -21% as enterprise demand comes into focus",
+      "summary": "Quantipay stock moved -21% as investors focused on enterprise demand.",
+      "whyItMatters": "How the market received the last update is the baseline expectation they will be measuring against in the room.",
+      "source": "Axios",
+      "publishedAt": "2026-10-18T19:05:00.000Z",
+      "category": "markets",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Halcyon Partners"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market took that badly. How are you reading it?"
+    },
+    {
+      "id": "n-31-quantipay-",
+      "headline": "Quantipay shares -8% as the renewal rate comes into focus",
+      "summary": "Quantipay stock moved -8% as investors focused on the renewal rate.",
+      "whyItMatters": "How the market received the last update is the baseline expectation they will be measuring against in the room.",
+      "source": "Reuters",
+      "publishedAt": "2026-10-18T07:38:00.000Z",
+      "category": "markets",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Arcline Capital"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market took that badly. How are you reading it?"
+    },
+    {
+      "id": "n-18-short-sell",
+      "headline": "Short-seller report targets Quantipay accounting over revenue recognition",
+      "summary": "A short-seller published a report disputing how Quantipay accounts for revenue recognition in its risk-factor disclosure.",
+      "whyItMatters": "Accusations of this kind define the defensive posture — know the substance before you ask anything adjacent.",
+      "source": "Bloomberg",
+      "publishedAt": "2026-10-17T17:31:00.000Z",
+      "category": "markets",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Quantipay",
+        "Meridian Capital"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market took that badly. How are you reading it?"
+    },
+    {
+      "id": "n-14-quantipay-",
+      "headline": "Quantipay valuation reported at $1.9B in secondary sale",
+      "summary": "A secondary transaction valued Quantipay at approximately $1.9B.",
+      "whyItMatters": "Secondary marks are the market’s most honest price — it is often more useful than the last primary round.",
+      "source": "Fortune",
+      "publishedAt": "2026-10-17T10:18:00.000Z",
+      "category": "markets",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Halcyon Partners"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "How do you read what the market is pricing in?"
+    },
+    {
+      "id": "n-27-quantipay-",
+      "headline": "Quantipay partnership with Summit Collective comes under scrutiny",
+      "summary": "Regulators and customers alike have questioned Quantipay’s arrangement with Summit Collective.",
+      "whyItMatters": "A questioned partnership becomes a reputational item — expect it to come up whether or not you raise it.",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T20:00:00.000Z",
+      "category": "partnerships",
+      "sentiment": "negative",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Summit Collective"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I saw the arrangement came under scrutiny. How are you handling that?"
+    },
+    {
+      "id": "n-17-quantipay-",
+      "headline": "Quantipay and Meridian Collective integrate Rail into enterprise suite",
+      "summary": "The companies connected Rail with Meridian Collective enterprise tooling, enabling shared identity and reporting.",
+      "whyItMatters": "Integration depth is a leading indicator of enterprise stickiness — worth confirming who owns the relationship.",
+      "source": "CNBC",
+      "publishedAt": "2026-10-15T07:38:00.000Z",
+      "category": "partnerships",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Meridian Collective"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The Meridian Collective arrangement is interesting. How did that conversation start?"
+    },
+    {
+      "id": "n-23-short-sell",
+      "headline": "Short-seller report targets Quantipay accounting over related-party transactions",
+      "summary": "A short-seller published a report disputing how Quantipay accounts for related-party transactions in its risk-factor disclosure.",
+      "whyItMatters": "Accusations of this kind define the defensive posture — know the substance before you ask anything adjacent.",
+      "source": "Fortune",
+      "publishedAt": "2026-10-14T19:44:00.000Z",
+      "category": "markets",
+      "sentiment": "negative",
+      "impact": 3,
+      "entities": [
+        "Quantipay",
+        "Verdant Growth"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The market took that badly. How are you reading it?"
+    },
+    {
+      "id": "n-30-quillon-la",
+      "headline": "Quillon Labs signs Quantipay for the enterprise tier across APAC",
+      "summary": "Quillon Labs selected Rail for the enterprise tier across its APAC operations.",
+      "whyItMatters": "Named enterprise wins show what actually sells — the selection criteria they used is worth copying.",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-08T18:00:00.000Z",
+      "category": "customers",
+      "sentiment": "positive",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Quillon Labs"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I noticed the Quillon Labs win. What made the difference in that evaluation?"
+    },
+    {
+      "id": "n-12-quantipay-",
+      "headline": "Quantipay raises $846M in Series E round led by Cobalt Row",
+      "summary": "Cobalt Row led a $846M Series E round for Quantipay, valuing the business above its previous mark.",
+      "whyItMatters": "A fresh primary raise gives the team more optionality and signals investor conviction — worth knowing what they intend to spend it on.",
+      "source": "CNBC",
+      "publishedAt": "2026-10-03T09:44:00.000Z",
+      "category": "funding",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Quantipay",
+        "Cobalt Row"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I've been following the raise — can you walk me through where the money is actually going?"
+    },
+    {
+      "id": "n-25-quantipay-",
+      "headline": "Quantipay wins regulatory clearance in Europe on consumer protection",
+      "summary": "Quantipay received regulatory clearance in Europe on how it handles consumer protection.",
+      "whyItMatters": "Approvals remove a gating risk that was likely being modelled internally; it frees up a growth lever.",
+      "source": "Rest of World",
+      "publishedAt": "2026-09-30T19:25:00.000Z",
+      "category": "regulation",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The clearance went well. What changed for the team as a result?"
+    },
+    {
+      "id": "n-32-quantipay-",
+      "headline": "Quantipay wins regulatory clearance in LATAM on export controls",
+      "summary": "Quantipay received regulatory clearance in LATAM on how it handles export controls.",
+      "whyItMatters": "Approvals remove a gating risk that was likely being modelled internally; it frees up a growth lever.",
+      "source": "Financial Times",
+      "publishedAt": "2026-09-30T06:38:00.000Z",
+      "category": "regulation",
+      "sentiment": "positive",
+      "impact": 3,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "The clearance went well. What changed for the team as a result?"
+    },
+    {
+      "id": "n-20-samuel-had",
+      "headline": "Samuel Haddad to step down as Quantipay CEO, Priya Moreau named successor",
+      "summary": "Samuel Haddad will leave Quantipay, with Priya Moreau taking the chief executive role after an internal transition.",
+      "whyItMatters": "A leadership transition changes who you are actually meeting and what authority their answers carry.",
+      "source": "Rest of World",
+      "publishedAt": "2026-09-29T10:05:00.000Z",
+      "category": "leadership",
+      "sentiment": "neutral",
+      "impact": 2,
+      "entities": [
+        "Quantipay",
+        "Samuel Haddad"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "New leadership usually means new priorities. What are yours now?"
+    },
+    {
+      "id": "n-29-quantipay-",
+      "headline": "Quantipay to hire 302 across Operations teams",
+      "summary": "Quantipay confirmed 302 open roles, most of them in Operations functions.",
+      "whyItMatters": "Role mix tells you where the constraint is believed to be, whether or not that is true.",
+      "source": "The Wall Street Journal",
+      "publishedAt": "2026-09-29T08:00:00.000Z",
+      "category": "hiring",
+      "sentiment": "positive",
+      "impact": 1,
+      "entities": [
+        "Quantipay",
+        "Samuel Haddad",
+        "Product"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "I saw the hiring plan. What is behind those numbers?"
+    },
+    {
+      "id": "n-21-regulators",
+      "headline": "Regulators open inquiry into Quantipay over consumer protection",
+      "summary": "A regulator opened a formal inquiry into how Quantipay handles consumer protection.",
+      "whyItMatters": "An open inquiry is material and usually known internally — acknowledging it early protects trust in the room.",
+      "source": "Bloomberg",
+      "publishedAt": "2026-09-28T10:00:00.000Z",
+      "category": "regulation",
+      "sentiment": "negative",
+      "impact": 1,
+      "entities": [
+        "Quantipay"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "There was a regulatory development. How are you thinking about it?"
+    },
+    {
+      "id": "n-28-quantipay-",
+      "headline": "Quantipay valuation reported at $2.0B in secondary sale",
+      "summary": "A secondary transaction valued Quantipay at approximately $2.0B.",
+      "whyItMatters": "Secondary marks are the market’s most honest price — it is often more useful than the last primary round.",
+      "source": "The Register",
+      "publishedAt": "2026-09-23T16:18:00.000Z",
+      "category": "markets",
+      "sentiment": "neutral",
+      "impact": 1,
+      "entities": [
+        "Quantipay",
+        "Meridian Capital"
+      ],
+      "inWindow": false,
+      "isKey": false,
+      "opener": "How do you read what the market is pricing in?"
+    }
+  ],
+  "signals": [
+    {
+      "id": "sig-risk-1",
+      "kind": "risk",
+      "title": "Adverse cluster in the last 30 days",
+      "detail": "3 notable negative items in-window, led by \"Quantipay sued over contract terms by former employees\". Expect this to be on their agenda even if it is not on yours.",
+      "evidence": [
+        "n-9-quantipay-",
+        "n-10-quantipay-",
+        "n-1-judge-sets"
+      ],
+      "severity": 3
+    },
+    {
+      "id": "sig-opp-1",
+      "kind": "opportunity",
+      "title": "Momentum you can build on",
+      "detail": "2 notable positive items, led by \"Quantipay raises $251M in Series E round led by Cobalt Row\". Naming something they are proud of — and asking them to extend it — is the cheapest way to build rapport.",
+      "evidence": [
+        "n-8-quantipay-",
+        "n-4-quantipay-"
+      ],
+      "severity": 2
+    },
+    {
+      "id": "sig-watch-1",
+      "kind": "watch",
+      "title": "Narrative is concentrating on litigation",
+      "detail": "4 of the 11 in-window items touch litigation. Coverage concentration means it is the frame external stakeholders are using — meeting well means meeting inside that frame, or deliberately outside it.",
+      "evidence": [
+        "n-9-quantipay-",
+        "n-1-judge-sets",
+        "n-2-quantipay-"
+      ],
+      "severity": 1
+    }
+  ],
+  "talkingPoints": [
+    {
+      "id": "tp-n-10-quantipay-",
+      "text": "Quantipay rolls back Rail release after model quality complaints",
+      "rationale": "A rollback is a live reliability issue — it is a factual, non-confrontational topic that opens useful technical conversation.",
+      "opener": "I'd like to start from something recent: \"Quantipay rolls back Rail release after model quality complaints.\"",
+      "evidence": [
+        "n-10-quantipay-"
+      ]
+    },
+    {
+      "id": "tp-n-9-quantipay-",
+      "text": "Quantipay sued over contract terms by former employees",
+      "rationale": "Employment litigation surfaces internal culture facts that rarely appear in any deck.",
+      "opener": "I saw the legal coverage. How much does it distract the team, honestly?",
+      "evidence": [
+        "n-9-quantipay-"
+      ]
+    },
+    {
+      "id": "tp-n-6-quantipay-",
+      "text": "Quantipay lands $783M to expand North America operations",
+      "rationale": "Capital tied to a specific region usually comes with local hiring and partner targets that show up in the roadmap.",
+      "opener": "A raise like that usually comes with big expectations. What are you promising the board?",
+      "evidence": [
+        "n-6-quantipay-"
+      ]
+    },
+    {
+      "id": "tp-n-3-quantipay-",
+      "text": "Quantipay lands $789M to expand India operations",
+      "rationale": "Capital tied to a specific region usually comes with local hiring and partner targets that show up in the roadmap.",
+      "opener": "A raise like that usually comes with big expectations. What are you promising the board?",
+      "evidence": [
+        "n-3-quantipay-"
+      ]
+    },
+    {
+      "id": "tp-n-1-judge-sets",
+      "text": "Judge sets hearing date in Quantipay case",
+      "rationale": "A dated hearing is a concrete timeline you can ask about without being accusatory.",
+      "opener": "I saw the legal coverage. How much does it distract the team, honestly?",
+      "evidence": [
+        "n-1-judge-sets"
+      ]
+    },
+    {
+      "id": "tp-profile",
+      "text": "Anchor the conversation in their position in the market",
+      "rationale": "They are financial technology · series d stage and headquartered in São Paulo, Brazil. Framing the meeting inside their own stated positioning gets an answer rather than a pitch.",
+      "opener": "Before we go further — I would like to understand how you are being measured right now.",
+      "evidence": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-negative",
+      "question": "How are you thinking about \"Quantipay sued over contract terms by former employees\"?",
+      "why": "It was widely covered as a negative development. Asking them to explain it — rather than waiting for them to raise it — usually gets a more complete answer.",
+      "category": "strategy",
+      "evidence": [
+        "n-9-quantipay-"
+      ]
+    },
+    {
+      "id": "q-positive",
+      "question": "What would need to be true for the momentum behind \"Quantipay raises $251M in Series E round led by Cobalt…\" to continue?",
+      "why": "Extends something they are proud of, which reads as interest rather than interrogation, and pulls out their success criteria.",
+      "category": "business",
+      "evidence": [
+        "n-8-quantipay-"
+      ]
+    },
+    {
+      "id": "q-2",
+      "question": "What changed in the last 30 days that is not yet public?",
+      "why": "Gives them room to be candid without putting a specific claim on the record, and reliably surfaces the internal narrative.",
+      "category": "strategy",
+      "evidence": []
+    },
+    {
+      "id": "q-3",
+      "question": "What would you do differently if you had twice the current budget?",
+      "why": "Reveals their real constraint without asking them to admit it, and gets prioritisation logic instead of a list.",
+      "category": "strategy",
+      "evidence": []
+    },
+    {
+      "id": "q-4",
+      "question": "Where is the gap between what you have announced and what is actually shipping?",
+      "why": "Announcements are lagging indicators; the gap between announced and shipped is where the real risk lives.",
+      "category": "product",
+      "evidence": []
+    },
+    {
+      "id": "q-5",
+      "question": "What is the assumption in your plan that worries you most?",
+      "why": "A high-signal question that is almost always answered honestly, because it asks about doubt rather than performance.",
+      "category": "business",
+      "evidence": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-n-9-quantipay-",
+      "name": "Mint",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "headline": "Quantipay sued over contract terms by former employees",
+      "category": "litigation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-6-quantipay-",
+      "name": "The Register",
+      "publishedAt": "2026-11-02T16:44:00.000Z",
+      "headline": "Quantipay lands $783M to expand North America operations",
+      "category": "funding",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-10-quantipay-",
+      "name": "Bloomberg",
+      "publishedAt": "2026-11-02T16:25:00.000Z",
+      "headline": "Quantipay rolls back Rail release after model quality complaints",
+      "category": "product",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-3-quantipay-",
+      "name": "PitchBook News",
+      "publishedAt": "2026-11-02T10:38:00.000Z",
+      "headline": "Quantipay lands $789M to expand India operations",
+      "category": "funding",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-1-judge-sets",
+      "name": "Nikkei Asia",
+      "publishedAt": "2026-11-02T07:00:00.000Z",
+      "headline": "Judge sets hearing date in Quantipay case",
+      "category": "litigation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-8-quantipay-",
+      "name": "The Wall Street Journal",
+      "publishedAt": "2026-10-31T13:31:00.000Z",
+      "headline": "Quantipay raises $251M in Series E round led by Cobalt Row",
+      "category": "funding",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-2-quantipay-",
+      "name": "Handshake",
+      "publishedAt": "2026-10-30T06:05:00.000Z",
+      "headline": "Quantipay sued over antitrust exposure by former employees",
+      "category": "litigation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-0-quantipay-",
+      "name": "Korea Herald",
+      "publishedAt": "2026-10-29T12:25:00.000Z",
+      "headline": "Quantipay previews Rail roadmap at developer event",
+      "category": "product",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-4-quantipay-",
+      "name": "The Register",
+      "publishedAt": "2026-10-29T11:25:00.000Z",
+      "headline": "Quantipay ships Rail, promising developer tooling gains",
+      "category": "product",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-5-investors-",
+      "name": "The Wall Street Journal",
+      "publishedAt": "2026-10-29T06:12:00.000Z",
+      "headline": "Investors reportedly pass on Quantipay at a $1.8B valuation",
+      "category": "funding",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-7-quantipay-",
+      "name": "Korea Herald",
+      "publishedAt": "2026-10-28T08:38:00.000Z",
+      "headline": "Quantipay settles dispute without admitting fault",
+      "category": "litigation",
+      "inWindow": true
+    },
+    {
+      "id": "s-n-24-quantipay-",
+      "name": "PitchBook News",
+      "publishedAt": "2026-10-26T08:51:00.000Z",
+      "headline": "Quantipay shares -14% as customer momentum comes into focus",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-16-quantipay-",
+      "name": "CNBC",
+      "publishedAt": "2026-10-25T08:51:00.000Z",
+      "headline": "Quantipay shares +11% as pipeline conversion comes into focus",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-26-samuel-had",
+      "name": "Mint",
+      "publishedAt": "2026-10-24T11:51:00.000Z",
+      "headline": "Samuel Haddad criticises competitors on public positioning",
+      "category": "social",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-15-quantipay-",
+      "name": "Reuters",
+      "publishedAt": "2026-10-23T17:44:00.000Z",
+      "headline": "Quantipay shares +14% as customer momentum comes into focus",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-11-quantipay-",
+      "name": "CNBC",
+      "publishedAt": "2026-10-23T13:18:00.000Z",
+      "headline": "Quantipay raises $157M in Series E round led by Verdant Growth",
+      "category": "funding",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-22-samuel-had",
+      "name": "The Wall Street Journal",
+      "publishedAt": "2026-10-22T10:44:00.000Z",
+      "headline": "Samuel Haddad calls industry narrative \"the defining question of the next decade\"",
+      "category": "social",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-19-quantipay-",
+      "name": "Business Insider",
+      "publishedAt": "2026-10-19T13:25:00.000Z",
+      "headline": "Quantipay publishes transparency report on export controls",
+      "category": "regulation",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-33-quantipay-",
+      "name": "PitchBook News",
+      "publishedAt": "2026-10-19T12:00:00.000Z",
+      "headline": "Quantipay and Pulse Labs integrate Rail into enterprise suite",
+      "category": "partnerships",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-13-quantipay-",
+      "name": "Axios",
+      "publishedAt": "2026-10-18T19:05:00.000Z",
+      "headline": "Quantipay shares -21% as enterprise demand comes into focus",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-31-quantipay-",
+      "name": "Reuters",
+      "publishedAt": "2026-10-18T07:38:00.000Z",
+      "headline": "Quantipay shares -8% as the renewal rate comes into focus",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-18-short-sell",
+      "name": "Bloomberg",
+      "publishedAt": "2026-10-17T17:31:00.000Z",
+      "headline": "Short-seller report targets Quantipay accounting over revenue recognition",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-14-quantipay-",
+      "name": "Fortune",
+      "publishedAt": "2026-10-17T10:18:00.000Z",
+      "headline": "Quantipay valuation reported at $1.9B in secondary sale",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-27-quantipay-",
+      "name": "TechCrunch",
+      "publishedAt": "2026-10-15T20:00:00.000Z",
+      "headline": "Quantipay partnership with Summit Collective comes under scrutiny",
+      "category": "partnerships",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-17-quantipay-",
+      "name": "CNBC",
+      "publishedAt": "2026-10-15T07:38:00.000Z",
+      "headline": "Quantipay and Meridian Collective integrate Rail into enterprise suite",
+      "category": "partnerships",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-23-short-sell",
+      "name": "Fortune",
+      "publishedAt": "2026-10-14T19:44:00.000Z",
+      "headline": "Short-seller report targets Quantipay accounting over related-party transactions",
+      "category": "markets",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-30-quillon-la",
+      "name": "The Economic Times",
+      "publishedAt": "2026-10-08T18:00:00.000Z",
+      "headline": "Quillon Labs signs Quantipay for the enterprise tier across APAC",
+      "category": "customers",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-12-quantipay-",
+      "name": "CNBC",
+      "publishedAt": "2026-10-03T09:44:00.000Z",
+      "headline": "Quantipay raises $846M in Series E round led by Cobalt Row",
+      "category": "funding",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-25-quantipay-",
+      "name": "Rest of World",
+      "publishedAt": "2026-09-30T19:25:00.000Z",
+      "headline": "Quantipay wins regulatory clearance in Europe on consumer protection",
+      "category": "regulation",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-32-quantipay-",
+      "name": "Financial Times",
+      "publishedAt": "2026-09-30T06:38:00.000Z",
+      "headline": "Quantipay wins regulatory clearance in LATAM on export controls",
+      "category": "regulation",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-20-samuel-had",
+      "name": "Rest of World",
+      "publishedAt": "2026-09-29T10:05:00.000Z",
+      "headline": "Samuel Haddad to step down as Quantipay CEO, Priya Moreau named successor",
+      "category": "leadership",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-29-quantipay-",
+      "name": "The Wall Street Journal",
+      "publishedAt": "2026-09-29T08:00:00.000Z",
+      "headline": "Quantipay to hire 302 across Operations teams",
+      "category": "hiring",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-21-regulators",
+      "name": "Bloomberg",
+      "publishedAt": "2026-09-28T10:00:00.000Z",
+      "headline": "Regulators open inquiry into Quantipay over consumer protection",
+      "category": "regulation",
+      "inWindow": false
+    },
+    {
+      "id": "s-n-28-quantipay-",
+      "name": "The Register",
+      "publishedAt": "2026-09-23T16:18:00.000Z",
+      "headline": "Quantipay valuation reported at $2.0B in secondary sale",
+      "category": "markets",
+      "inWindow": false
+    }
+  ],
+  "sentimentTrend": [
+    {
+      "date": "2026-10-27",
+      "score": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-28",
+      "score": 0,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-29",
+      "score": 0,
+      "volume": 3
+    },
+    {
+      "date": "2026-10-30",
+      "score": -0.2,
+      "volume": 1
+    },
+    {
+      "date": "2026-10-31",
+      "score": 0,
+      "volume": 1
+    },
+    {
+      "date": "2026-11-01",
+      "score": 0,
+      "volume": 0
+    },
+    {
+      "date": "2026-11-02",
+      "score": -0.27,
+      "volume": 5
+    }
+  ],
+  "coverage": [
+    {
+      "category": "litigation",
+      "count": 4
+    },
+    {
+      "category": "funding",
+      "count": 4
+    },
+    {
+      "category": "product",
+      "count": 3
+    }
+  ],
+  "stats": {
+    "articles": 11,
+    "sources": 8,
+    "keyItems": 1,
+    "avgSentiment": -0.27,
+    "daysCovered": 5,
+    "categoriesCovered": 3
+  },
+  "grounding": [
+    "11 news items published within the last 7 days.",
+    "Distinct outlets: 8.",
+    "Most-covered categories: litigation, funding, product.",
+    "Key people named: Samuel Haddad (Chief Executive Officer); Idris Reyes (Chief Financial Officer); Sofia Sørensen (Chief Technology Officer); Samuel Reyes (Head of Enterprise Sales).",
+    "Stage and positioning: Financial technology · Series D stage. São Paulo, Brazil"
+  ],
+  "synthetic": true
+}
