@@ -87,8 +87,8 @@ Run the backend and frontend in separate terminal windows.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/DhanushM-00/Prebrief-Pre-Meeting-agent
+cd Prebrief-Pre-Meeting-agent
 ```
 
 ### 2. Configure and start the backend
